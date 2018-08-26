@@ -1,0 +1,1650 @@
+ [{
+  "version": 5,
+  "status": "ACTIVE",
+  "createdUserFirstName": "Chris",
+  "alaCartePurchaseMade": true,
+  "userRoleInJob": "ROLE_OWNER",
+  "address": {
+  "country": "US",
+  "city": "Austin",
+  "streetAddress": "4110 Aldama Dr",
+  "timezone": "America/Chicago",
+  "addressUuid": "7BC37772-421B-43B4-8D92-D68FDDED30C0",
+  "postCode": "78739",
+  "state": "TX ",
+  "geolocation": {
+  "horizontalAccuracy": 0,
+  "altitude": 0,
+  "verticalAccuracy": 0,
+  "lng": -97.86890278579469,
+  "floor": 0,
+  "lat": 30.17129950228163
+  }
+  },
+  "createdUser": "05d06106-1728-4d08-b8c6-8a03bf8f3f58",
+  "name": "Ipad test1",
+  "providerId": "walkthrough",
+  "createdUserLastName": "Mathias",
+  "createdOn": 1531407407541,
+  "jobImage": {
+  "contentUrl": "https://s3.amazonaws.com/023464524600-tasktape-dev/users/05d06106-1728-4d08-b8c6-8a03bf8f3f58/jobs/0ECC9D69-AA00-4A4F-B47D-CD8BD964E2DB/job.jpg",
+  "width": 0,
+  "mediaUuid": "7B748676-2AD4-4A27-9CE2-4306A8C5524D",
+  "originalUrl": "https://s3.amazonaws.com/023464524600-tasktape-dev/users/05d06106-1728-4d08-b8c6-8a03bf8f3f58/jobs/0ECC9D69-AA00-4A4F-B47D-CD8BD964E2DB/job.jpg",
+  "createdOn": 1531407405117,
+  "createdUser": "05d06106-1728-4d08-b8c6-8a03bf8f3f58",
+  "height": 0
+  },
+  "isPaid": true,
+  "jobUuid": "0ECC9D69-AA00-4A4F-B47D-CD8BD964E2DB"
+  }, {
+  "version": 0,
+  "status": "ACTIVE",
+  "createdUserFirstName": "Chris",
+  "userRoleInJob": "ROLE_OWNER",
+  "address": {
+  "country": "US",
+  "city": "Austin",
+  "streetAddress": "4110 Aldama Dr",
+  "timezone": "America/Chicago",
+  "addressUuid": "49A255A7-0302-4834-B34B-8F3C0A41DD03",
+  "postCode": "78739",
+  "state": "TX",
+  "geolocation": {
+  "lng": -97.86885500894661,
+  "lat": 30.171349835610176
+  }
+  },
+  "createdUser": "05d06106-1728-4d08-b8c6-8a03bf8f3f58",
+  "name": "Flatlander",
+  "providerId": "walkthrough",
+  "createdUserLastName": "Mathias",
+  "createdOn": 1531109514152,
+  "jobImage": {
+  "contentUrl": "https://s3.amazonaws.com/023464524600-tasktape-dev/users/05d06106-1728-4d08-b8c6-8a03bf8f3f58/jobs/FC9614BE-FB8E-42D7-890F-25A68C2F7939/job.jpg",
+  "width": 0,
+  "mediaUuid": "68BF7344-165F-4843-96E5-966F2B407197",
+  "originalUrl": "https://s3.amazonaws.com/023464524600-tasktape-dev/users/05d06106-1728-4d08-b8c6-8a03bf8f3f58/jobs/FC9614BE-FB8E-42D7-890F-25A68C2F7939/job.jpg",
+  "createdOn": 1531109510875,
+  "createdUser": "05d06106-1728-4d08-b8c6-8a03bf8f3f58",
+  "height": 0
+  },
+  "isPaid": false,
+  "jobUuid": "FC9614BE-FB8E-42D7-890F-25A68C2F7939"
+  }, {
+  "version": 1,
+  "status": "ACTIVE",
+  "createdUserFirstName": "Chris",
+  "userRoleInJob": "ROLE_OWNER",
+  "address": {
+  "country": "US",
+  "city": "Lebanon",
+  "streetAddress": "Blech",
+  "timezone": "America/New_York",
+  "addressUuid": "927D9DBD-5E8C-4779-AD7D-D4D39DCFCA07",
+  "postCode": "66952",
+  "state": "KS",
+  "geolocation": {
+  "horizontalAccuracy": 0,
+  "altitude": 0,
+  "verticalAccuracy": 0,
+  "lng": 0,
+  "floor": 1,
+  "lat": 0
+  }
+  },
+  "createdUser": "05d06106-1728-4d08-b8c6-8a03bf8f3f58",
+  "name": "Alright already",
+  "providerId": "walkthrough",
+  "createdUserLastName": "Mathias",
+  "createdOn": 1534524478912,
+  "jobImage": {
+  "width": 0,
+  "mediaUuid": "53D9B889-DB2F-4F2F-94CE-560D346743B4",
+  "createdOn": 1534524478626,
+  "createdUser": "05d06106-1728-4d08-b8c6-8a03bf8f3f58",
+  "height": 0
+  },
+  "isPaid": false,
+  "jobUuid": "94092906-4FA4-40A2-AA6D-797BBFDBD378"
+  }, {
+  "version": 3,
+  "status": "ACTIVE",
+  "createdUserFirstName": "Chris",
+  "userRoleInJob": "ROLE_OWNER",
+  "address": {
+  "country": "US",
+  "city": "Austin",
+  "streetAddress": "2110 New Slaughter Ln",
+  "timezone": "America/New_York",
+  "addressUuid": "F094746C-FB17-4BDC-B369-7A9655738D1A",
+  "postCode": "78748",
+  "state": "TX",
+  "geolocation": {
+  "horizontalAccuracy": 100,
+  "altitude": 0,
+  "verticalAccuracy": -1,
+  "lng": -97.82545403882779,
+  "floor": 1,
+  "lat": 30.17511553638785
+  }
+  },
+  "createdUser": "05d06106-1728-4d08-b8c6-8a03bf8f3f58",
+  "name": "Tested new skip flow",
+  "providerId": "walkthrough",
+  "createdUserLastName": "Mathias",
+  "createdOn": 1534524211935,
+  "jobImage": {
+  "contentUrl": "https://s3.amazonaws.com/023464524600-tasktape-dev/users/05d06106-1728-4d08-b8c6-8a03bf8f3f58/jobs/3CF82692-8D64-4AA1-8186-7256B0647B06/job-[AA708FA0-C4A5-48CA-AE52-C64147A64F2A].jpg",
+  "width": 0,
+  "description": "Som noes for real",
+  "mediaUuid": "628E8818-EC68-4F57-B6A1-FD4A12AC2B02",
+  "originalUrl": "https://s3.amazonaws.com/023464524600-tasktape-dev/users/05d06106-1728-4d08-b8c6-8a03bf8f3f58/jobs/3CF82692-8D64-4AA1-8186-7256B0647B06/job-[AA708FA0-C4A5-48CA-AE52-C64147A64F2A].jpg",
+  "createdOn": 1534524358530,
+  "createdUser": "05d06106-1728-4d08-b8c6-8a03bf8f3f58",
+  "height": 0
+  },
+  "isPaid": false,
+  "jobUuid": "3CF82692-8D64-4AA1-8186-7256B0647B06"
+  }, {
+  "version": 0,
+  "status": "ACTIVE",
+  "createdUserFirstName": "Angela",
+  "userRoleInJob": "ROLE_VIEWER",
+  "address": {
+  "country": "US",
+  "city": "Austin",
+  "streetAddress": "4110 Aldama Dr",
+  "timezone": "America/Chicago",
+  "addressUuid": "390D8BB9-2C6B-4B28-A3B8-896252DDFF18",
+  "postCode": "78739",
+  "state": "TX",
+  "geolocation": {
+  "lng": -97.86905977884109,
+  "lat": 30.17129891554841
+  }
+  },
+  "createdUser": "ba7a3506-9f26-43a1-a9bf-02efee237a2c",
+  "name": "Masterbath",
+  "providerId": "walkthrough",
+  "createdUserLastName": "Mathias",
+  "createdOn": 1531524820395,
+  "jobImage": {
+  "contentUrl": "https://s3.amazonaws.com/023464524600-tasktape-dev/users/ba7a3506-9f26-43a1-a9bf-02efee237a2c/jobs/B5C620F1-87A6-47A9-9D7E-A6E710C36B2F/job.jpg",
+  "width": 0,
+  "mediaUuid": "FC6051FF-479F-480F-B7E8-3253C6243AD7",
+  "originalUrl": "https://s3.amazonaws.com/023464524600-tasktape-dev/users/ba7a3506-9f26-43a1-a9bf-02efee237a2c/jobs/B5C620F1-87A6-47A9-9D7E-A6E710C36B2F/job.jpg",
+  "createdOn": 1531524788929,
+  "createdUser": "ba7a3506-9f26-43a1-a9bf-02efee237a2c",
+  "height": 0
+  },
+  "isPaid": false,
+  "jobUuid": "B5C620F1-87A6-47A9-9D7E-A6E710C36B2F",
+  "locations": [{
+                "version": 0,
+                "location": {
+                "lng": -97.86902415575261,
+                "lat": 30.171257089851583
+                },
+                "createdUserLastName": "Mathias",
+                "createdOn": 1531524840615,
+                "createdUserFirstName": "Angela",
+                "jobUuid": "B5C620F1-87A6-47A9-9D7E-A6E710C36B2F",
+                "locationUuid": "C0DDE076-7CC0-4F3F-A3E7-BE10BD3BFAB7",
+                "createdUser": "ba7a3506-9f26-43a1-a9bf-02efee237a2c",
+                "name": "Masterbath",
+                "tapeAnchors": [{
+                                "tapeUuid": "941C05F9-F03B-40C6-8C7F-ABCB3249E6C4",
+                                "version": 0,
+                                "createdUserLastName": "Mathias",
+                                "image": {
+                                "contentUrl": "https://s3.amazonaws.com/023464524600-tasktape-dev/users/ba7a3506-9f26-43a1-a9bf-02efee237a2c/jobs/B5C620F1-87A6-47A9-9D7E-A6E710C36B2F/locations/C0DDE076-7CC0-4F3F-A3E7-BE10BD3BFAB7/tape_anchor_759787E6-8849-4BE9-9F10-B347B7B46EAA.jpg",
+                                "width": 1598,
+                                "description": "string",
+                                "mediaUuid": "CC7C9955-6BCB-496D-9106-DBA8342584A6",
+                                "originalUrl": "https://s3.amazonaws.com/023464524600-tasktape-dev/users/ba7a3506-9f26-43a1-a9bf-02efee237a2c/jobs/B5C620F1-87A6-47A9-9D7E-A6E710C36B2F/locations/C0DDE076-7CC0-4F3F-A3E7-BE10BD3BFAB7/tape_anchor_759787E6-8849-4BE9-9F10-B347B7B46EAA.jpg",
+                                "createdOn": 1531526710858,
+                                "createdUser": "ba7a3506-9f26-43a1-a9bf-02efee237a2c",
+                                "height": 1080
+                                },
+                                "createdOn": 1531526748575,
+                                "tapeAnchorUuid": "759787E6-8849-4BE9-9F10-B347B7B46EAA",
+                                "createdUserFirstName": "Angela",
+                                "locationUuid": "C0DDE076-7CC0-4F3F-A3E7-BE10BD3BFAB7",
+                                "tapes": [{
+                                          "tapeUuid": "681AEDC8-9F4F-4611-BC2E-A9AAC3FB7848",
+                                          "version": 0,
+                                          "createdUserLastName": "Mathias",
+                                          "createdOn": 1531526748975,
+                                          "geoLocatedAt": {
+                                          "lng": -97.86889993594761,
+                                          "lat": 30.171342082349742
+                                          },
+                                          "tapeAnchorUuid": "759787E6-8849-4BE9-9F10-B347B7B46EAA",
+                                          "centerYPercentage": 78.68227358217592,
+                                          "createdUserFirstName": "Angela",
+                                          "locationUuid": "C0DDE076-7CC0-4F3F-A3E7-BE10BD3BFAB7",
+                                          "centerXPercentage": 24.70703125,
+                                          "createdUser": "ba7a3506-9f26-43a1-a9bf-02efee237a2c",
+                                          "name": "Bath tub & surround",
+                                          "notes": {
+                                          "IMAGES": [{
+                                                     "content": [{
+                                                                 "contentUrl": "https://s3.amazonaws.com/023464524600-tasktape-dev/users/ba7a3506-9f26-43a1-a9bf-02efee237a2c/jobs/B5C620F1-87A6-47A9-9D7E-A6E710C36B2F/locations/C0DDE076-7CC0-4F3F-A3E7-BE10BD3BFAB7/tapes/681AEDC8-9F4F-4611-BC2E-A9AAC3FB7848/image_note_21A0FD99-ED60-4D1B-A34D-02B368061A7B_000.jpg",
+                                                                 "width": 0,
+                                                                 "description": "string",
+                                                                 "mediaUuid": "F8F157E2-7E52-41BC-80A1-D382CCCAA1B7",
+                                                                 "originalUrl": "https://s3.amazonaws.com/023464524600-tasktape-dev/users/ba7a3506-9f26-43a1-a9bf-02efee237a2c/jobs/B5C620F1-87A6-47A9-9D7E-A6E710C36B2F/locations/C0DDE076-7CC0-4F3F-A3E7-BE10BD3BFAB7/tapes/681AEDC8-9F4F-4611-BC2E-A9AAC3FB7848/image_note_21A0FD99-ED60-4D1B-A34D-02B368061A7B_000.jpg",
+                                                                 "createdOn": 1531850036316,
+                                                                 "createdUser": "ba7a3506-9f26-43a1-a9bf-02efee237a2c",
+                                                                 "height": 0
+                                                                 }, {
+                                                                 "contentUrl": "https://s3.amazonaws.com/023464524600-tasktape-dev/users/ba7a3506-9f26-43a1-a9bf-02efee237a2c/jobs/B5C620F1-87A6-47A9-9D7E-A6E710C36B2F/locations/C0DDE076-7CC0-4F3F-A3E7-BE10BD3BFAB7/tapes/681AEDC8-9F4F-4611-BC2E-A9AAC3FB7848/image_note_7BFCCA5A-0F31-4E58-B1EA-CC343AF4F871_001.jpg",
+                                                                 "width": 0,
+                                                                 "description": "string",
+                                                                 "mediaUuid": "3879EC31-B260-4E1F-922F-A68F8B4E459D",
+                                                                 "originalUrl": "https://s3.amazonaws.com/023464524600-tasktape-dev/users/ba7a3506-9f26-43a1-a9bf-02efee237a2c/jobs/B5C620F1-87A6-47A9-9D7E-A6E710C36B2F/locations/C0DDE076-7CC0-4F3F-A3E7-BE10BD3BFAB7/tapes/681AEDC8-9F4F-4611-BC2E-A9AAC3FB7848/image_note_7BFCCA5A-0F31-4E58-B1EA-CC343AF4F871_001.jpg",
+                                                                 "createdOn": 1531850036392,
+                                                                 "createdUser": "ba7a3506-9f26-43a1-a9bf-02efee237a2c",
+                                                                 "height": 0
+                                                                 }, {
+                                                                 "contentUrl": "https://s3.amazonaws.com/023464524600-tasktape-dev/users/ba7a3506-9f26-43a1-a9bf-02efee237a2c/jobs/B5C620F1-87A6-47A9-9D7E-A6E710C36B2F/locations/C0DDE076-7CC0-4F3F-A3E7-BE10BD3BFAB7/tapes/681AEDC8-9F4F-4611-BC2E-A9AAC3FB7848/image_note_5B67A78B-3566-47BE-9EE1-CFC65EFCCC75_002.jpg",
+                                                                 "width": 0,
+                                                                 "description": "string",
+                                                                 "mediaUuid": "D4BDE383-3282-4C21-A448-C2B1BAB4E8B6",
+                                                                 "originalUrl": "https://s3.amazonaws.com/023464524600-tasktape-dev/users/ba7a3506-9f26-43a1-a9bf-02efee237a2c/jobs/B5C620F1-87A6-47A9-9D7E-A6E710C36B2F/locations/C0DDE076-7CC0-4F3F-A3E7-BE10BD3BFAB7/tapes/681AEDC8-9F4F-4611-BC2E-A9AAC3FB7848/image_note_5B67A78B-3566-47BE-9EE1-CFC65EFCCC75_002.jpg",
+                                                                 "createdOn": 1531850036452,
+                                                                 "createdUser": "ba7a3506-9f26-43a1-a9bf-02efee237a2c",
+                                                                 "height": 0
+                                                                 }],
+                                                     "tapeUuid": "681AEDC8-9F4F-4611-BC2E-A9AAC3FB7848",
+                                                     "version": 0,
+                                                     "createdUserLastName": "Mathias",
+                                                     "createdOn": 1531850040710,
+                                                     "createdUserFirstName": "Angela",
+                                                     "shareable": true,
+                                                     "description": "string",
+                                                     "createdUser": "ba7a3506-9f26-43a1-a9bf-02efee237a2c",
+                                                     "noteUuid": "F0D6D26A-C4E8-42BF-B76E-F07E6EE508B7",
+                                                     "tags": [],
+                                                     "type": "IMAGES",
+                                                     "replies": []
+                                                     }, {
+                                                     "content": [{
+                                                                 "contentUrl": "https://s3.amazonaws.com/023464524600-tasktape-dev/users/ba7a3506-9f26-43a1-a9bf-02efee237a2c/jobs/B5C620F1-87A6-47A9-9D7E-A6E710C36B2F/locations/C0DDE076-7CC0-4F3F-A3E7-BE10BD3BFAB7/tapes/681AEDC8-9F4F-4611-BC2E-A9AAC3FB7848/image_note_108F3A8B-BDE9-4708-BC41-FAE678FEFD0D_000.jpg",
+                                                                 "width": 0,
+                                                                 "description": "string",
+                                                                 "mediaUuid": "F063BB09-06B7-4C6B-8331-375B1CDE25EC",
+                                                                 "originalUrl": "https://s3.amazonaws.com/023464524600-tasktape-dev/users/ba7a3506-9f26-43a1-a9bf-02efee237a2c/jobs/B5C620F1-87A6-47A9-9D7E-A6E710C36B2F/locations/C0DDE076-7CC0-4F3F-A3E7-BE10BD3BFAB7/tapes/681AEDC8-9F4F-4611-BC2E-A9AAC3FB7848/image_note_108F3A8B-BDE9-4708-BC41-FAE678FEFD0D_000.jpg",
+                                                                 "createdOn": 1531852638418,
+                                                                 "createdUser": "ba7a3506-9f26-43a1-a9bf-02efee237a2c",
+                                                                 "height": 0
+                                                                 }],
+                                                     "tapeUuid": "681AEDC8-9F4F-4611-BC2E-A9AAC3FB7848",
+                                                     "version": 0,
+                                                     "createdUserLastName": "Mathias",
+                                                     "createdOn": 1531852644993,
+                                                     "createdUserFirstName": "Angela",
+                                                     "shareable": true,
+                                                     "description": "string",
+                                                     "createdUser": "ba7a3506-9f26-43a1-a9bf-02efee237a2c",
+                                                     "noteUuid": "5A26462A-3254-4191-BEE8-1B243E442254",
+                                                     "tags": [],
+                                                     "type": "IMAGES",
+                                                     "replies": []
+                                                     }],
+                                          "VIDEO": [{
+                                                    "content": [{
+                                                                "contentUrl": "https://s3.amazonaws.com/023464524600-tasktape-dev/users/ba7a3506-9f26-43a1-a9bf-02efee237a2c/jobs/B5C620F1-87A6-47A9-9D7E-A6E710C36B2F/locations/C0DDE076-7CC0-4F3F-A3E7-BE10BD3BFAB7/tapes/681AEDC8-9F4F-4611-BC2E-A9AAC3FB7848/55354327519__1F5C610E-DE38-4C8B-8F28-F308ACEE19A5.MOV",
+                                                                "width": 0,
+                                                                "description": "Overview of tub area",
+                                                                "mediaUuid": "1C00672E-1E4C-4E4C-B687-33C0640F6DBB",
+                                                                "originalUrl": "https://s3.amazonaws.com/023464524600-tasktape-dev/users/ba7a3506-9f26-43a1-a9bf-02efee237a2c/jobs/B5C620F1-87A6-47A9-9D7E-A6E710C36B2F/locations/C0DDE076-7CC0-4F3F-A3E7-BE10BD3BFAB7/tapes/681AEDC8-9F4F-4611-BC2E-A9AAC3FB7848/55354327519__1F5C610E-DE38-4C8B-8F28-F308ACEE19A5.MOV",
+                                                                "createdOn": 1531850598770,
+                                                                "createdUser": "ba7a3506-9f26-43a1-a9bf-02efee237a2c",
+                                                                "height": 0
+                                                                }],
+                                                    "tapeUuid": "681AEDC8-9F4F-4611-BC2E-A9AAC3FB7848",
+                                                    "version": 0,
+                                                    "createdUserLastName": "Mathias",
+                                                    "createdOn": 1531850602690,
+                                                    "createdUserFirstName": "Angela",
+                                                    "shareable": true,
+                                                    "description": "video_note_9415555A-8BBF-4930-BF46-2E9CD405D708.MOV",
+                                                    "createdUser": "ba7a3506-9f26-43a1-a9bf-02efee237a2c",
+                                                    "noteUuid": "9415555A-8BBF-4930-BF46-2E9CD405D708",
+                                                    "tags": [],
+                                                    "type": "VIDEO",
+                                                    "replies": []
+                                                    }],
+                                          "TEXT": [{
+                                                   "content": [],
+                                                   "tapeUuid": "681AEDC8-9F4F-4611-BC2E-A9AAC3FB7848",
+                                                   "version": 0,
+                                                   "createdUserLastName": "Mathias",
+                                                   "createdOn": 1531849088790,
+                                                   "createdUserFirstName": "Angela",
+                                                   "shareable": true,
+                                                   "description": "Take out short separator wall between shower and tub. Take out platform on the left side of the tub - see pic. Leave back platform - this to be reworked with new tiles.  Install new tub up against the left wall. Plumbing for tub will need to be moved to accommodate. Will attach pictures of new tiles and design.",
+                                                   "createdUser": "ba7a3506-9f26-43a1-a9bf-02efee237a2c",
+                                                   "noteUuid": "C66E45C9-85FC-42DF-977D-617604AC2E74",
+                                                   "tags": [],
+                                                   "type": "TEXT",
+                                                   "replies": []
+                                                   }]
+                                          }
+                                          }, {
+                                          "tapeUuid": "941C05F9-F03B-40C6-8C7F-ABCB3249E6C4",
+                                          "version": 0,
+                                          "createdUserLastName": "Mathias",
+                                          "createdOn": 1531526748575,
+                                          "geoLocatedAt": {
+                                          "lng": -97.86889993594761,
+                                          "lat": 30.171342082349742
+                                          },
+                                          "tapeAnchorUuid": "759787E6-8849-4BE9-9F10-B347B7B46EAA",
+                                          "centerYPercentage": 26.536565553738836,
+                                          "createdUserFirstName": "Angela",
+                                          "locationUuid": "C0DDE076-7CC0-4F3F-A3E7-BE10BD3BFAB7",
+                                          "centerXPercentage": 74.072265625,
+                                          "createdUser": "ba7a3506-9f26-43a1-a9bf-02efee237a2c",
+                                          "name": "Shower",
+                                          "notes": {
+                                          "IMAGES": [{
+                                                     "content": [{
+                                                                 "contentUrl": "https://s3.amazonaws.com/023464524600-tasktape-dev/users/ba7a3506-9f26-43a1-a9bf-02efee237a2c/jobs/B5C620F1-87A6-47A9-9D7E-A6E710C36B2F/locations/C0DDE076-7CC0-4F3F-A3E7-BE10BD3BFAB7/tapes/941C05F9-F03B-40C6-8C7F-ABCB3249E6C4/image_note_C9B8E677-9A6F-4B12-9AE5-8F490C989D50_001.jpg",
+                                                                 "width": 0,
+                                                                 "description": "string",
+                                                                 "mediaUuid": "A3CC38AA-D44D-4E41-9BA5-A4A1CF4B9CA2",
+                                                                 "originalUrl": "https://s3.amazonaws.com/023464524600-tasktape-dev/users/ba7a3506-9f26-43a1-a9bf-02efee237a2c/jobs/B5C620F1-87A6-47A9-9D7E-A6E710C36B2F/locations/C0DDE076-7CC0-4F3F-A3E7-BE10BD3BFAB7/tapes/941C05F9-F03B-40C6-8C7F-ABCB3249E6C4/image_note_C9B8E677-9A6F-4B12-9AE5-8F490C989D50_001.jpg",
+                                                                 "createdOn": 1531789996586,
+                                                                 "createdUser": "ba7a3506-9f26-43a1-a9bf-02efee237a2c",
+                                                                 "height": 0
+                                                                 }],
+                                                     "tapeUuid": "941C05F9-F03B-40C6-8C7F-ABCB3249E6C4",
+                                                     "version": 1,
+                                                     "createdUserLastName": "Mathias",
+                                                     "createdOn": 1531790001519,
+                                                     "createdUserFirstName": "Angela",
+                                                     "shareable": true,
+                                                     "description": "string",
+                                                     "createdUser": "ba7a3506-9f26-43a1-a9bf-02efee237a2c",
+                                                     "noteUuid": "E3C879BA-84EE-45EF-81F2-8CC9108BA314",
+                                                     "tags": [],
+                                                     "type": "IMAGES",
+                                                     "replies": []
+                                                     }],
+                                          "TEXT": [{
+                                                   "content": [],
+                                                   "tapeUuid": "941C05F9-F03B-40C6-8C7F-ABCB3249E6C4",
+                                                   "version": 1,
+                                                   "createdUserLastName": "Mathias",
+                                                   "createdOn": 1531789913541,
+                                                   "createdUserFirstName": "Angela",
+                                                   "shareable": true,
+                                                   "description": "Shower walls and tiles to come out. Replace with all new tiles and one new glass wall across the front of shower area.  New shower will extend forward from its current position about 4-6 inches with just enough room to access small closet.  Shower will also extend to the left by being an open (walk in with no door). Sample photos attached. I have a specific tile design I'd like to use. I'll send tile design info as soon as I've completed.",
+                                                   "createdUser": "ba7a3506-9f26-43a1-a9bf-02efee237a2c",
+                                                   "noteUuid": "C68ACA36-4284-4628-A819-AD916DC91759",
+                                                   "tags": [],
+                                                   "type": "TEXT",
+                                                   "replies": []
+                                                   }]
+                                          }
+                                          }, {
+                                          "tapeUuid": "E6C52AB0-93DF-4B36-B228-6B8F42A92AE1",
+                                          "version": 0,
+                                          "createdUserLastName": "Mathias",
+                                          "createdOn": 1531526749375,
+                                          "geoLocatedAt": {
+                                          "lng": -97.86889993594761,
+                                          "lat": 30.171342082349742
+                                          },
+                                          "tapeAnchorUuid": "759787E6-8849-4BE9-9F10-B347B7B46EAA",
+                                          "centerYPercentage": 53.46788194444444,
+                                          "createdUserFirstName": "Angela",
+                                          "locationUuid": "C0DDE076-7CC0-4F3F-A3E7-BE10BD3BFAB7",
+                                          "centerXPercentage": 98.73046875,
+                                          "createdUser": "ba7a3506-9f26-43a1-a9bf-02efee237a2c",
+                                          "name": "Small closet",
+                                          "notes": {
+                                          "TEXT": [{
+                                                   "content": [],
+                                                   "tapeUuid": "E6C52AB0-93DF-4B36-B228-6B8F42A92AE1",
+                                                   "version": 0,
+                                                   "createdUserLastName": "Mathias",
+                                                   "createdOn": 1531527348254,
+                                                   "createdUserFirstName": "Angela",
+                                                   "shareable": true,
+                                                   "description": "Replace door with special order door. Door on order, estimated to arrive August 2.",
+                                                   "createdUser": "ba7a3506-9f26-43a1-a9bf-02efee237a2c",
+                                                   "noteUuid": "C33ABDC3-D697-43C3-9EFA-5C29A4EF8B1D",
+                                                   "tags": [],
+                                                   "type": "TEXT",
+                                                   "replies": []
+                                                   }],
+                                          "IMAGES": [{
+                                                     "content": [{
+                                                                 "contentUrl": "https://s3.amazonaws.com/023464524600-tasktape-dev/users/ba7a3506-9f26-43a1-a9bf-02efee237a2c/jobs/B5C620F1-87A6-47A9-9D7E-A6E710C36B2F/locations/C0DDE076-7CC0-4F3F-A3E7-BE10BD3BFAB7/tapes/E6C52AB0-93DF-4B36-B228-6B8F42A92AE1/image_note_7FC252AA-D473-46F6-9506-79DA1E8F8F2C_000.jpg",
+                                                                 "width": 0,
+                                                                 "description": "string",
+                                                                 "mediaUuid": "0CC10635-DFED-4AD3-AAE8-09947852AD00",
+                                                                 "originalUrl": "https://s3.amazonaws.com/023464524600-tasktape-dev/users/ba7a3506-9f26-43a1-a9bf-02efee237a2c/jobs/B5C620F1-87A6-47A9-9D7E-A6E710C36B2F/locations/C0DDE076-7CC0-4F3F-A3E7-BE10BD3BFAB7/tapes/E6C52AB0-93DF-4B36-B228-6B8F42A92AE1/image_note_7FC252AA-D473-46F6-9506-79DA1E8F8F2C_000.jpg",
+                                                                 "createdOn": 1531527186032,
+                                                                 "createdUser": "ba7a3506-9f26-43a1-a9bf-02efee237a2c",
+                                                                 "height": 0
+                                                                 }],
+                                                     "tapeUuid": "E6C52AB0-93DF-4B36-B228-6B8F42A92AE1",
+                                                     "version": 0,
+                                                     "createdUserLastName": "Mathias",
+                                                     "createdOn": 1531527187390,
+                                                     "createdUserFirstName": "Angela",
+                                                     "shareable": true,
+                                                     "description": "string",
+                                                     "createdUser": "ba7a3506-9f26-43a1-a9bf-02efee237a2c",
+                                                     "noteUuid": "7F63F7BC-018E-4E6E-AF1D-B0347B021BD0",
+                                                     "tags": [],
+                                                     "type": "IMAGES",
+                                                     "replies": []
+                                                     }]
+                                          }
+                                          }]
+                                }, {
+                                "tapeUuid": "DF36EE2B-7815-452F-965E-E4AEF3EB7875",
+                                "version": 0,
+                                "createdUserLastName": "Mathias",
+                                "image": {
+                                "contentUrl": "https://s3.amazonaws.com/023464524600-tasktape-dev/users/ba7a3506-9f26-43a1-a9bf-02efee237a2c/jobs/B5C620F1-87A6-47A9-9D7E-A6E710C36B2F/locations/C0DDE076-7CC0-4F3F-A3E7-BE10BD3BFAB7/tape_anchor_37139CC9-B844-411F-97A4-A5A009FD180F.jpg",
+                                "width": 1540,
+                                "description": "string",
+                                "mediaUuid": "D232C438-909A-45BC-B912-752AA38A9FC4",
+                                "originalUrl": "https://s3.amazonaws.com/023464524600-tasktape-dev/users/ba7a3506-9f26-43a1-a9bf-02efee237a2c/jobs/B5C620F1-87A6-47A9-9D7E-A6E710C36B2F/locations/C0DDE076-7CC0-4F3F-A3E7-BE10BD3BFAB7/tape_anchor_37139CC9-B844-411F-97A4-A5A009FD180F.jpg",
+                                "createdOn": 1531524933172,
+                                "createdUser": "ba7a3506-9f26-43a1-a9bf-02efee237a2c",
+                                "height": 1080
+                                },
+                                "createdOn": 1531525139036,
+                                "tapeAnchorUuid": "37139CC9-B844-411F-97A4-A5A009FD180F",
+                                "createdUserFirstName": "Angela",
+                                "locationUuid": "C0DDE076-7CC0-4F3F-A3E7-BE10BD3BFAB7",
+                                "tapes": [{
+                                          "tapeUuid": "E35BD375-29CA-4EFB-A499-5FE9705BAEB2",
+                                          "version": 0,
+                                          "createdUserLastName": "Mathias",
+                                          "createdOn": 1531526254112,
+                                          "geoLocatedAt": {
+                                          "lng": -97.86895324485178,
+                                          "lat": 30.1711680740399
+                                          },
+                                          "tapeAnchorUuid": "37139CC9-B844-411F-97A4-A5A009FD180F",
+                                          "centerYPercentage": 47.00557103064067,
+                                          "createdUserFirstName": "Angela",
+                                          "locationUuid": "C0DDE076-7CC0-4F3F-A3E7-BE10BD3BFAB7",
+                                          "centerXPercentage": 12.004847520167857,
+                                          "createdUser": "ba7a3506-9f26-43a1-a9bf-02efee237a2c",
+                                          "name": "Medicine cabinet",
+                                          "notes": {
+                                          "AUDIO": [{
+                                                    "content": [{
+                                                                "contentUrl": "https://s3.amazonaws.com/023464524600-tasktape-dev/users/ba7a3506-9f26-43a1-a9bf-02efee237a2c/jobs/B5C620F1-87A6-47A9-9D7E-A6E710C36B2F/locations/C0DDE076-7CC0-4F3F-A3E7-BE10BD3BFAB7/tapes/E35BD375-29CA-4EFB-A499-5FE9705BAEB2/audio_note_72830E41-0E42-41B9-A8AE-D5CD16A8199F.m4a",
+                                                                "width": 0,
+                                                                "description": "string",
+                                                                "mediaUuid": "92DA4E83-1A52-4ADB-84A1-B49D484EBF48",
+                                                                "originalUrl": "https://s3.amazonaws.com/023464524600-tasktape-dev/users/ba7a3506-9f26-43a1-a9bf-02efee237a2c/jobs/B5C620F1-87A6-47A9-9D7E-A6E710C36B2F/locations/C0DDE076-7CC0-4F3F-A3E7-BE10BD3BFAB7/tapes/E35BD375-29CA-4EFB-A499-5FE9705BAEB2/audio_note_72830E41-0E42-41B9-A8AE-D5CD16A8199F.m4a",
+                                                                "createdOn": 1531774203811,
+                                                                "createdUser": "ba7a3506-9f26-43a1-a9bf-02efee237a2c",
+                                                                "height": 0
+                                                                }],
+                                                    "tapeUuid": "E35BD375-29CA-4EFB-A499-5FE9705BAEB2",
+                                                    "version": 0,
+                                                    "createdUserLastName": "Mathias",
+                                                    "createdOn": 1531774205148,
+                                                    "createdUserFirstName": "Angela",
+                                                    "shareable": true,
+                                                    "description": "audio_note_72830E41-0E42-41B9-A8AE-D5CD16A8199F.m4a",
+                                                    "createdUser": "ba7a3506-9f26-43a1-a9bf-02efee237a2c",
+                                                    "noteUuid": "72830E41-0E42-41B9-A8AE-D5CD16A8199F",
+                                                    "tags": [],
+                                                    "type": "AUDIO",
+                                                    "replies": []
+                                                    }],
+                                          "TEXT": [{
+                                                   "content": [],
+                                                   "tapeUuid": "E35BD375-29CA-4EFB-A499-5FE9705BAEB2",
+                                                   "version": 0,
+                                                   "createdUserLastName": "Mathias",
+                                                   "createdOn": 1531774176948,
+                                                   "createdUserFirstName": "Angela",
+                                                   "shareable": true,
+                                                   "description": "Remove medicine cabinet completely. Seal with drywall. ",
+                                                   "createdUser": "ba7a3506-9f26-43a1-a9bf-02efee237a2c",
+                                                   "noteUuid": "64225F48-05C0-4A9F-AC0B-BA898E0EED9E",
+                                                   "tags": [],
+                                                   "type": "TEXT",
+                                                   "replies": []
+                                                   }]
+                                          }
+                                          }, {
+                                          "tapeUuid": "FEF4A57C-F0F6-4C47-9623-43ED8F772847",
+                                          "version": 0,
+                                          "createdUserLastName": "Mathias",
+                                          "createdOn": 1531526295710,
+                                          "geoLocatedAt": {
+                                          "lng": -97.86895324485178,
+                                          "lat": 30.1711680740399
+                                          },
+                                          "tapeAnchorUuid": "37139CC9-B844-411F-97A4-A5A009FD180F",
+                                          "centerYPercentage": 13.857938718662952,
+                                          "createdUserFirstName": "Angela",
+                                          "locationUuid": "C0DDE076-7CC0-4F3F-A3E7-BE10BD3BFAB7",
+                                          "centerXPercentage": 11.711825778678149,
+                                          "createdUser": "ba7a3506-9f26-43a1-a9bf-02efee237a2c",
+                                          "name": "Paint",
+                                          "notes": {
+                                          "TEXT": [{
+                                                   "content": [],
+                                                   "tapeUuid": "FEF4A57C-F0F6-4C47-9623-43ED8F772847",
+                                                   "version": 0,
+                                                   "createdUserLastName": "Mathias",
+                                                   "createdOn": 1531787850161,
+                                                   "createdUserFirstName": "Angela",
+                                                   "shareable": true,
+                                                   "description": "Paint color = Berh Shiny Luster . Paint all walls this blue/grey color. Trim will be Ultra White.",
+                                                   "createdUser": "ba7a3506-9f26-43a1-a9bf-02efee237a2c",
+                                                   "noteUuid": "4147A702-DD50-4633-9414-7FEF16A21330",
+                                                   "tags": [],
+                                                   "type": "TEXT",
+                                                   "replies": []
+                                                   }],
+                                          "AUDIO": [{
+                                                    "content": [{
+                                                                "contentUrl": "https://s3.amazonaws.com/023464524600-tasktape-dev/users/ba7a3506-9f26-43a1-a9bf-02efee237a2c/jobs/B5C620F1-87A6-47A9-9D7E-A6E710C36B2F/locations/C0DDE076-7CC0-4F3F-A3E7-BE10BD3BFAB7/tapes/FEF4A57C-F0F6-4C47-9623-43ED8F772847/audio_note_E17F6310-BC4C-4C02-AFF2-FB800A089F1F.m4a",
+                                                                "width": 0,
+                                                                "description": "string",
+                                                                "mediaUuid": "0CB71148-F345-43D0-84B8-65FAFDEF701B",
+                                                                "originalUrl": "https://s3.amazonaws.com/023464524600-tasktape-dev/users/ba7a3506-9f26-43a1-a9bf-02efee237a2c/jobs/B5C620F1-87A6-47A9-9D7E-A6E710C36B2F/locations/C0DDE076-7CC0-4F3F-A3E7-BE10BD3BFAB7/tapes/FEF4A57C-F0F6-4C47-9623-43ED8F772847/audio_note_E17F6310-BC4C-4C02-AFF2-FB800A089F1F.m4a",
+                                                                "createdOn": 1531787941495,
+                                                                "createdUser": "ba7a3506-9f26-43a1-a9bf-02efee237a2c",
+                                                                "height": 0
+                                                                }],
+                                                    "tapeUuid": "FEF4A57C-F0F6-4C47-9623-43ED8F772847",
+                                                    "version": 0,
+                                                    "createdUserLastName": "Mathias",
+                                                    "createdOn": 1531787944341,
+                                                    "createdUserFirstName": "Angela",
+                                                    "shareable": true,
+                                                    "description": "audio_note_E17F6310-BC4C-4C02-AFF2-FB800A089F1F.m4a",
+                                                    "createdUser": "ba7a3506-9f26-43a1-a9bf-02efee237a2c",
+                                                    "noteUuid": "E17F6310-BC4C-4C02-AFF2-FB800A089F1F",
+                                                    "tags": [],
+                                                    "type": "AUDIO",
+                                                    "replies": []
+                                                    }]
+                                          }
+                                          }, {
+                                          "tapeUuid": "AD4FBB1B-8D29-431C-967A-2CBF2D7584CF",
+                                          "version": 0,
+                                          "createdUserLastName": "Mathias",
+                                          "createdOn": 1531526276036,
+                                          "geoLocatedAt": {
+                                          "lng": -97.86895324485178,
+                                          "lat": 30.1711680740399
+                                          },
+                                          "tapeAnchorUuid": "37139CC9-B844-411F-97A4-A5A009FD180F",
+                                          "centerYPercentage": 85.0974930362117,
+                                          "createdUserFirstName": "Angela",
+                                          "locationUuid": "C0DDE076-7CC0-4F3F-A3E7-BE10BD3BFAB7",
+                                          "centerXPercentage": 42.5767825489274,
+                                          "createdUser": "ba7a3506-9f26-43a1-a9bf-02efee237a2c",
+                                          "name": "Vanity & mirror",
+                                          "notes": {
+                                          "TEXT": [{
+                                                   "content": [],
+                                                   "tapeUuid": "AD4FBB1B-8D29-431C-967A-2CBF2D7584CF",
+                                                   "version": 0,
+                                                   "createdUserLastName": "Mathias",
+                                                   "createdOn": 1531773741431,
+                                                   "createdUserFirstName": "Angela",
+                                                   "shareable": true,
+                                                   "description": "Vanity cabinet and top will to be replaced. Dark brown cabinet, white and grey marble top, sink bowls to sit on top.",
+                                                   "createdUser": "ba7a3506-9f26-43a1-a9bf-02efee237a2c",
+                                                   "noteUuid": "8FAE1F9E-3BD4-43D5-A2F2-4E028799194F",
+                                                   "tags": [],
+                                                   "type": "TEXT",
+                                                   "replies": []
+                                                   }],
+                                          "IMAGES": [{
+                                                     "content": [{
+                                                                 "contentUrl": "https://s3.amazonaws.com/023464524600-tasktape-dev/users/ba7a3506-9f26-43a1-a9bf-02efee237a2c/jobs/B5C620F1-87A6-47A9-9D7E-A6E710C36B2F/locations/C0DDE076-7CC0-4F3F-A3E7-BE10BD3BFAB7/tapes/AD4FBB1B-8D29-431C-967A-2CBF2D7584CF/image_note_F5E9062B-6E62-4791-B04A-C73AF6BAA886_000.jpg",
+                                                                 "width": 0,
+                                                                 "description": "string",
+                                                                 "mediaUuid": "39503635-9786-4680-8E52-96040B3BCA1E",
+                                                                 "originalUrl": "https://s3.amazonaws.com/023464524600-tasktape-dev/users/ba7a3506-9f26-43a1-a9bf-02efee237a2c/jobs/B5C620F1-87A6-47A9-9D7E-A6E710C36B2F/locations/C0DDE076-7CC0-4F3F-A3E7-BE10BD3BFAB7/tapes/AD4FBB1B-8D29-431C-967A-2CBF2D7584CF/image_note_F5E9062B-6E62-4791-B04A-C73AF6BAA886_000.jpg",
+                                                                 "createdOn": 1531773829028,
+                                                                 "createdUser": "ba7a3506-9f26-43a1-a9bf-02efee237a2c",
+                                                                 "height": 0
+                                                                 }],
+                                                     "tapeUuid": "AD4FBB1B-8D29-431C-967A-2CBF2D7584CF",
+                                                     "version": 0,
+                                                     "createdUserLastName": "Mathias",
+                                                     "createdOn": 1531773831308,
+                                                     "createdUserFirstName": "Angela",
+                                                     "shareable": true,
+                                                     "description": "string",
+                                                     "createdUser": "ba7a3506-9f26-43a1-a9bf-02efee237a2c",
+                                                     "noteUuid": "981D9972-4B98-4042-9ADF-60B58BC9976A",
+                                                     "tags": [],
+                                                     "type": "IMAGES",
+                                                     "replies": []
+                                                     }, {
+                                                     "content": [{
+                                                                 "contentUrl": "https://s3.amazonaws.com/023464524600-tasktape-dev/users/ba7a3506-9f26-43a1-a9bf-02efee237a2c/jobs/B5C620F1-87A6-47A9-9D7E-A6E710C36B2F/locations/C0DDE076-7CC0-4F3F-A3E7-BE10BD3BFAB7/tapes/AD4FBB1B-8D29-431C-967A-2CBF2D7584CF/image_note_990BBE87-6449-4F6A-BBA0-7653BD20C297_000.jpg",
+                                                                 "width": 0,
+                                                                 "description": "string",
+                                                                 "mediaUuid": "EEF59EC4-5DD1-4538-A043-93D4C80AAE82",
+                                                                 "originalUrl": "https://s3.amazonaws.com/023464524600-tasktape-dev/users/ba7a3506-9f26-43a1-a9bf-02efee237a2c/jobs/B5C620F1-87A6-47A9-9D7E-A6E710C36B2F/locations/C0DDE076-7CC0-4F3F-A3E7-BE10BD3BFAB7/tapes/AD4FBB1B-8D29-431C-967A-2CBF2D7584CF/image_note_990BBE87-6449-4F6A-BBA0-7653BD20C297_000.jpg",
+                                                                 "createdOn": 1531774404179,
+                                                                 "createdUser": "ba7a3506-9f26-43a1-a9bf-02efee237a2c",
+                                                                 "height": 0
+                                                                 }],
+                                                     "tapeUuid": "AD4FBB1B-8D29-431C-967A-2CBF2D7584CF",
+                                                     "version": 0,
+                                                     "createdUserLastName": "Mathias",
+                                                     "createdOn": 1531774406649,
+                                                     "createdUserFirstName": "Angela",
+                                                     "shareable": true,
+                                                     "description": "string",
+                                                     "createdUser": "ba7a3506-9f26-43a1-a9bf-02efee237a2c",
+                                                     "noteUuid": "83D14A1F-CB86-4687-9926-FA5BBAE2009C",
+                                                     "tags": [],
+                                                     "type": "IMAGES",
+                                                     "replies": []
+                                                     }],
+                                          "AUDIO": [{
+                                                    "content": [{
+                                                                "contentUrl": "https://s3.amazonaws.com/023464524600-tasktape-dev/users/ba7a3506-9f26-43a1-a9bf-02efee237a2c/jobs/B5C620F1-87A6-47A9-9D7E-A6E710C36B2F/locations/C0DDE076-7CC0-4F3F-A3E7-BE10BD3BFAB7/tapes/AD4FBB1B-8D29-431C-967A-2CBF2D7584CF/audio_note_BF2634C2-4559-4E83-8F09-7F01C0955823.m4a",
+                                                                "width": 0,
+                                                                "description": "string",
+                                                                "mediaUuid": "1FB0CD28-E2C6-47F1-B63F-D1AD9C1698F2",
+                                                                "originalUrl": "https://s3.amazonaws.com/023464524600-tasktape-dev/users/ba7a3506-9f26-43a1-a9bf-02efee237a2c/jobs/B5C620F1-87A6-47A9-9D7E-A6E710C36B2F/locations/C0DDE076-7CC0-4F3F-A3E7-BE10BD3BFAB7/tapes/AD4FBB1B-8D29-431C-967A-2CBF2D7584CF/audio_note_BF2634C2-4559-4E83-8F09-7F01C0955823.m4a",
+                                                                "createdOn": 1531774431418,
+                                                                "createdUser": "ba7a3506-9f26-43a1-a9bf-02efee237a2c",
+                                                                "height": 0
+                                                                }],
+                                                    "tapeUuid": "AD4FBB1B-8D29-431C-967A-2CBF2D7584CF",
+                                                    "version": 0,
+                                                    "createdUserLastName": "Mathias",
+                                                    "createdOn": 1531774433669,
+                                                    "createdUserFirstName": "Angela",
+                                                    "shareable": true,
+                                                    "description": "audio_note_BF2634C2-4559-4E83-8F09-7F01C0955823.m4a",
+                                                    "createdUser": "ba7a3506-9f26-43a1-a9bf-02efee237a2c",
+                                                    "noteUuid": "BF2634C2-4559-4E83-8F09-7F01C0955823",
+                                                    "tags": [],
+                                                    "type": "AUDIO",
+                                                    "replies": []
+                                                    }, {
+                                                    "content": [{
+                                                                "contentUrl": "https://s3.amazonaws.com/023464524600-tasktape-dev/users/ba7a3506-9f26-43a1-a9bf-02efee237a2c/jobs/B5C620F1-87A6-47A9-9D7E-A6E710C36B2F/locations/C0DDE076-7CC0-4F3F-A3E7-BE10BD3BFAB7/tapes/AD4FBB1B-8D29-431C-967A-2CBF2D7584CF/audio_note_900DEAB7-4AFB-4426-9A75-B0BF198DD4DB.m4a",
+                                                                "width": 0,
+                                                                "description": "string",
+                                                                "mediaUuid": "57E2A936-2535-4DBB-A45E-03201E60C8C0",
+                                                                "originalUrl": "https://s3.amazonaws.com/023464524600-tasktape-dev/users/ba7a3506-9f26-43a1-a9bf-02efee237a2c/jobs/B5C620F1-87A6-47A9-9D7E-A6E710C36B2F/locations/C0DDE076-7CC0-4F3F-A3E7-BE10BD3BFAB7/tapes/AD4FBB1B-8D29-431C-967A-2CBF2D7584CF/audio_note_900DEAB7-4AFB-4426-9A75-B0BF198DD4DB.m4a",
+                                                                "createdOn": 1531773797708,
+                                                                "createdUser": "ba7a3506-9f26-43a1-a9bf-02efee237a2c",
+                                                                "height": 0
+                                                                }],
+                                                    "tapeUuid": "AD4FBB1B-8D29-431C-967A-2CBF2D7584CF",
+                                                    "version": 0,
+                                                    "createdUserLastName": "Mathias",
+                                                    "createdOn": 1531773799049,
+                                                    "createdUserFirstName": "Angela",
+                                                    "shareable": true,
+                                                    "description": "audio_note_900DEAB7-4AFB-4426-9A75-B0BF198DD4DB.m4a",
+                                                    "createdUser": "ba7a3506-9f26-43a1-a9bf-02efee237a2c",
+                                                    "noteUuid": "900DEAB7-4AFB-4426-9A75-B0BF198DD4DB",
+                                                    "tags": [],
+                                                    "type": "AUDIO",
+                                                    "replies": []
+                                                    }]
+                                          }
+                                          }, {
+                                          "tapeUuid": "91F1A1F4-1432-408D-BC7F-BDFBC442ADBF",
+                                          "version": 0,
+                                          "createdUserLastName": "Mathias",
+                                          "createdOn": 1531525139611,
+                                          "geoLocatedAt": {
+                                          "lng": -97.86895324485178,
+                                          "lat": 30.1711680740399
+                                          },
+                                          "tapeAnchorUuid": "37139CC9-B844-411F-97A4-A5A009FD180F",
+                                          "centerYPercentage": 12.604456824512535,
+                                          "createdUserFirstName": "Angela",
+                                          "locationUuid": "C0DDE076-7CC0-4F3F-A3E7-BE10BD3BFAB7",
+                                          "centerXPercentage": 52.0999891473429,
+                                          "createdUser": "ba7a3506-9f26-43a1-a9bf-02efee237a2c",
+                                          "name": "Lighting",
+                                          "notes": {
+                                          "TEXT": [{
+                                                   "content": [],
+                                                   "tapeUuid": "91F1A1F4-1432-408D-BC7F-BDFBC442ADBF",
+                                                   "version": 1,
+                                                   "createdUserLastName": "Mathias",
+                                                   "createdOn": 1531773148268,
+                                                   "createdUserFirstName": "Angela",
+                                                   "shareable": true,
+                                                   "description": "Will be replacing light fixture. Wire for an additional separate fixture = one over each sink. Attaching pic of new fixtures.",
+                                                   "createdUser": "ba7a3506-9f26-43a1-a9bf-02efee237a2c",
+                                                   "noteUuid": "C4257620-8ABF-4DEE-B40D-860489EFFAE3",
+                                                   "tags": [],
+                                                   "type": "TEXT",
+                                                   "replies": []
+                                                   }],
+                                          "AUDIO": [{
+                                                    "content": [{
+                                                                "contentUrl": "https://s3.amazonaws.com/023464524600-tasktape-dev/users/ba7a3506-9f26-43a1-a9bf-02efee237a2c/jobs/B5C620F1-87A6-47A9-9D7E-A6E710C36B2F/locations/C0DDE076-7CC0-4F3F-A3E7-BE10BD3BFAB7/tapes/91F1A1F4-1432-408D-BC7F-BDFBC442ADBF/audio_note_AC4470F7-2936-4269-B6B3-085EEFE3D559.m4a",
+                                                                "width": 0,
+                                                                "description": "string",
+                                                                "mediaUuid": "3BF372FD-4B00-45E4-828C-83FA8BE51ECD",
+                                                                "originalUrl": "https://s3.amazonaws.com/023464524600-tasktape-dev/users/ba7a3506-9f26-43a1-a9bf-02efee237a2c/jobs/B5C620F1-87A6-47A9-9D7E-A6E710C36B2F/locations/C0DDE076-7CC0-4F3F-A3E7-BE10BD3BFAB7/tapes/91F1A1F4-1432-408D-BC7F-BDFBC442ADBF/audio_note_AC4470F7-2936-4269-B6B3-085EEFE3D559.m4a",
+                                                                "createdOn": 1531773319082,
+                                                                "createdUser": "ba7a3506-9f26-43a1-a9bf-02efee237a2c",
+                                                                "height": 0
+                                                                }],
+                                                    "tapeUuid": "91F1A1F4-1432-408D-BC7F-BDFBC442ADBF",
+                                                    "version": 0,
+                                                    "createdUserLastName": "Mathias",
+                                                    "createdOn": 1531773320488,
+                                                    "createdUserFirstName": "Angela",
+                                                    "shareable": true,
+                                                    "description": "audio_note_AC4470F7-2936-4269-B6B3-085EEFE3D559.m4a",
+                                                    "createdUser": "ba7a3506-9f26-43a1-a9bf-02efee237a2c",
+                                                    "noteUuid": "AC4470F7-2936-4269-B6B3-085EEFE3D559",
+                                                    "tags": [],
+                                                    "type": "AUDIO",
+                                                    "replies": []
+                                                    }],
+                                          "IMAGES": [{
+                                                     "content": [{
+                                                                 "contentUrl": "https://s3.amazonaws.com/023464524600-tasktape-dev/users/ba7a3506-9f26-43a1-a9bf-02efee237a2c/jobs/B5C620F1-87A6-47A9-9D7E-A6E710C36B2F/locations/C0DDE076-7CC0-4F3F-A3E7-BE10BD3BFAB7/tapes/91F1A1F4-1432-408D-BC7F-BDFBC442ADBF/image_note_B54EF40E-8EA1-401E-BDCB-4F3ADA26A931_000.jpg",
+                                                                 "width": 0,
+                                                                 "description": "string",
+                                                                 "mediaUuid": "8715EBD8-F27A-47A1-8979-9EC080D647A7",
+                                                                 "originalUrl": "https://s3.amazonaws.com/023464524600-tasktape-dev/users/ba7a3506-9f26-43a1-a9bf-02efee237a2c/jobs/B5C620F1-87A6-47A9-9D7E-A6E710C36B2F/locations/C0DDE076-7CC0-4F3F-A3E7-BE10BD3BFAB7/tapes/91F1A1F4-1432-408D-BC7F-BDFBC442ADBF/image_note_B54EF40E-8EA1-401E-BDCB-4F3ADA26A931_000.jpg",
+                                                                 "createdOn": 1531773186225,
+                                                                 "createdUser": "ba7a3506-9f26-43a1-a9bf-02efee237a2c",
+                                                                 "height": 0
+                                                                 }],
+                                                     "tapeUuid": "91F1A1F4-1432-408D-BC7F-BDFBC442ADBF",
+                                                     "version": 0,
+                                                     "createdUserLastName": "Mathias",
+                                                     "createdOn": 1531773190708,
+                                                     "createdUserFirstName": "Angela",
+                                                     "shareable": true,
+                                                     "description": "string",
+                                                     "createdUser": "ba7a3506-9f26-43a1-a9bf-02efee237a2c",
+                                                     "noteUuid": "49173F1A-E453-484F-B9BA-F14AA785AC06",
+                                                     "tags": [],
+                                                     "type": "IMAGES",
+                                                     "replies": []
+                                                     }]
+                                          }
+                                          }]
+                                }, {
+                                "tapeUuid": "252E939D-4DE4-4939-842F-2E6720EA59DB",
+                                "version": 0,
+                                "createdUserLastName": "Mathias",
+                                "image": {
+                                "contentUrl": "https://s3.amazonaws.com/023464524600-tasktape-dev/users/ba7a3506-9f26-43a1-a9bf-02efee237a2c/jobs/B5C620F1-87A6-47A9-9D7E-A6E710C36B2F/locations/C0DDE076-7CC0-4F3F-A3E7-BE10BD3BFAB7/tape_anchor_47D7EF20-BF2E-4D7A-9DF3-92B28EDA499C.jpg",
+                                "width": 1598,
+                                "description": "string",
+                                "mediaUuid": "05C7E855-1E03-4D6F-8614-9EC4A3B38500",
+                                "originalUrl": "https://s3.amazonaws.com/023464524600-tasktape-dev/users/ba7a3506-9f26-43a1-a9bf-02efee237a2c/jobs/B5C620F1-87A6-47A9-9D7E-A6E710C36B2F/locations/C0DDE076-7CC0-4F3F-A3E7-BE10BD3BFAB7/tape_anchor_47D7EF20-BF2E-4D7A-9DF3-92B28EDA499C.jpg",
+                                "createdOn": 1531526784140,
+                                "createdUser": "ba7a3506-9f26-43a1-a9bf-02efee237a2c",
+                                "height": 1080
+                                },
+                                "createdOn": 1531526835607,
+                                "tapeAnchorUuid": "47D7EF20-BF2E-4D7A-9DF3-92B28EDA499C",
+                                "createdUserFirstName": "Angela",
+                                "locationUuid": "C0DDE076-7CC0-4F3F-A3E7-BE10BD3BFAB7",
+                                "tapes": [{
+                                          "tapeUuid": "252E939D-4DE4-4939-842F-2E6720EA59DB",
+                                          "version": 0,
+                                          "createdUserLastName": "Mathias",
+                                          "createdOn": 1531526835607,
+                                          "geoLocatedAt": {
+                                          "lng": -97.8688023705947,
+                                          "lat": 30.171404401799823
+                                          },
+                                          "tapeAnchorUuid": "47D7EF20-BF2E-4D7A-9DF3-92B28EDA499C",
+                                          "centerYPercentage": 46.801189509170584,
+                                          "createdUserFirstName": "Angela",
+                                          "locationUuid": "C0DDE076-7CC0-4F3F-A3E7-BE10BD3BFAB7",
+                                          "centerXPercentage": 48.681640625,
+                                          "createdUser": "ba7a3506-9f26-43a1-a9bf-02efee237a2c",
+                                          "name": "Toilet closet",
+                                          "notes": {
+                                          "AUDIO": [{
+                                                    "content": [{
+                                                                "contentUrl": "https://s3.amazonaws.com/023464524600-tasktape-dev/users/ba7a3506-9f26-43a1-a9bf-02efee237a2c/jobs/B5C620F1-87A6-47A9-9D7E-A6E710C36B2F/locations/C0DDE076-7CC0-4F3F-A3E7-BE10BD3BFAB7/tapes/252E939D-4DE4-4939-842F-2E6720EA59DB/audio_note_25F7FF08-5043-4CF2-BBAD-04F808289277.m4a",
+                                                                "width": 0,
+                                                                "description": "string",
+                                                                "mediaUuid": "3B75A968-64E7-433C-B722-42E7A96F7F29",
+                                                                "originalUrl": "https://s3.amazonaws.com/023464524600-tasktape-dev/users/ba7a3506-9f26-43a1-a9bf-02efee237a2c/jobs/B5C620F1-87A6-47A9-9D7E-A6E710C36B2F/locations/C0DDE076-7CC0-4F3F-A3E7-BE10BD3BFAB7/tapes/252E939D-4DE4-4939-842F-2E6720EA59DB/audio_note_25F7FF08-5043-4CF2-BBAD-04F808289277.m4a",
+                                                                "createdOn": 1531848146352,
+                                                                "createdUser": "ba7a3506-9f26-43a1-a9bf-02efee237a2c",
+                                                                "height": 0
+                                                                }],
+                                                    "tapeUuid": "252E939D-4DE4-4939-842F-2E6720EA59DB",
+                                                    "version": 0,
+                                                    "createdUserLastName": "Mathias",
+                                                    "createdOn": 1531848147753,
+                                                    "createdUserFirstName": "Angela",
+                                                    "shareable": true,
+                                                    "description": "audio_note_25F7FF08-5043-4CF2-BBAD-04F808289277.m4a",
+                                                    "createdUser": "ba7a3506-9f26-43a1-a9bf-02efee237a2c",
+                                                    "noteUuid": "25F7FF08-5043-4CF2-BBAD-04F808289277",
+                                                    "tags": [],
+                                                    "type": "AUDIO",
+                                                    "replies": []
+                                                    }],
+                                          "IMAGES": [{
+                                                     "content": [{
+                                                                 "contentUrl": "https://s3.amazonaws.com/023464524600-tasktape-dev/users/ba7a3506-9f26-43a1-a9bf-02efee237a2c/jobs/B5C620F1-87A6-47A9-9D7E-A6E710C36B2F/locations/C0DDE076-7CC0-4F3F-A3E7-BE10BD3BFAB7/tapes/252E939D-4DE4-4939-842F-2E6720EA59DB/image_note_05E8FCF6-7784-4643-949F-7C132C063552_000.jpg",
+                                                                 "width": 0,
+                                                                 "description": "string",
+                                                                 "mediaUuid": "CA15C48D-7D2E-47D3-9CBA-D2BA2593D9B5",
+                                                                 "originalUrl": "https://s3.amazonaws.com/023464524600-tasktape-dev/users/ba7a3506-9f26-43a1-a9bf-02efee237a2c/jobs/B5C620F1-87A6-47A9-9D7E-A6E710C36B2F/locations/C0DDE076-7CC0-4F3F-A3E7-BE10BD3BFAB7/tapes/252E939D-4DE4-4939-842F-2E6720EA59DB/image_note_05E8FCF6-7784-4643-949F-7C132C063552_000.jpg",
+                                                                 "createdOn": 1531526802447,
+                                                                 "createdUser": "ba7a3506-9f26-43a1-a9bf-02efee237a2c",
+                                                                 "height": 0
+                                                                 }, {
+                                                                 "contentUrl": "https://s3.amazonaws.com/023464524600-tasktape-dev/users/ba7a3506-9f26-43a1-a9bf-02efee237a2c/jobs/B5C620F1-87A6-47A9-9D7E-A6E710C36B2F/locations/C0DDE076-7CC0-4F3F-A3E7-BE10BD3BFAB7/tapes/252E939D-4DE4-4939-842F-2E6720EA59DB/image_note_358EC505-20FD-49AA-9005-7D286F36B735_001.jpg",
+                                                                 "width": 0,
+                                                                 "description": "string",
+                                                                 "mediaUuid": "D7DDFBDB-AEF1-46E7-BA45-B2EF7D5BE9A5",
+                                                                 "originalUrl": "https://s3.amazonaws.com/023464524600-tasktape-dev/users/ba7a3506-9f26-43a1-a9bf-02efee237a2c/jobs/B5C620F1-87A6-47A9-9D7E-A6E710C36B2F/locations/C0DDE076-7CC0-4F3F-A3E7-BE10BD3BFAB7/tapes/252E939D-4DE4-4939-842F-2E6720EA59DB/image_note_358EC505-20FD-49AA-9005-7D286F36B735_001.jpg",
+                                                                 "createdOn": 1531526802514,
+                                                                 "createdUser": "ba7a3506-9f26-43a1-a9bf-02efee237a2c",
+                                                                 "height": 0
+                                                                 }],
+                                                     "tapeUuid": "252E939D-4DE4-4939-842F-2E6720EA59DB",
+                                                     "version": 0,
+                                                     "createdUserLastName": "Mathias",
+                                                     "createdOn": 1531526838956,
+                                                     "createdUserFirstName": "Angela",
+                                                     "shareable": true,
+                                                     "description": "string",
+                                                     "createdUser": "ba7a3506-9f26-43a1-a9bf-02efee237a2c",
+                                                     "noteUuid": "D4233150-4C16-4200-976C-E2D120388193",
+                                                     "tags": [],
+                                                     "type": "IMAGES",
+                                                     "replies": [{
+                                                                 "content": "Do you ever get purple turds in this toilet?",
+                                                                 "tapeUuid": "252E939D-4DE4-4939-842F-2E6720EA59DB",
+                                                                 "version": 0,
+                                                                 "readBy": [],
+                                                                 "createdUserFirstName": "Chris",
+                                                                 "jobOwnerUuid": "05d06106-1728-4d08-b8c6-8a03bf8f3f58",
+                                                                 "createdUser": "05d06106-1728-4d08-b8c6-8a03bf8f3f58",
+                                                                 "noteUuid": "D4233150-4C16-4200-976C-E2D120388193",
+                                                                 "deleted": false,
+                                                                 "replyUuid": "BDF8A1A6-3F94-4F31-9172-935913FDF376",
+                                                                 "createdUserLastName": "Mathias",
+                                                                 "createdOn": 1532109263160,
+                                                                 "edited": false,
+                                                                 "jobUuid": "B5C620F1-87A6-47A9-9D7E-A6E710C36B2F",
+                                                                 "locationUuid": "C0DDE076-7CC0-4F3F-A3E7-BE10BD3BFAB7"
+                                                                 }]
+                                                     }],
+                                          "TEXT": [{
+                                                   "content": [],
+                                                   "tapeUuid": "252E939D-4DE4-4939-842F-2E6720EA59DB",
+                                                   "version": 1,
+                                                   "createdUserLastName": "Mathias",
+                                                   "createdOn": 1531848070042,
+                                                   "createdUserFirstName": "Angela",
+                                                   "shareable": true,
+                                                   "description": "Replace fan or fan cover with a white one. Replace light fixture - see pictures for replacement. Replace toilet paper holder. Replace doors - I'll order these.",
+                                                   "createdUser": "ba7a3506-9f26-43a1-a9bf-02efee237a2c",
+                                                   "noteUuid": "A4B664A2-E44E-4647-8E2B-27DB1F1BEE2D",
+                                                   "tags": [],
+                                                   "type": "TEXT",
+                                                   "replies": []
+                                                   }]
+                                          }
+                                          }, {
+                                          "tapeUuid": "36C2BBD9-2854-436B-8DA7-26A28A8300ED",
+                                          "version": 0,
+                                          "createdUserLastName": "Mathias",
+                                          "createdOn": 1531526863335,
+                                          "geoLocatedAt": {
+                                          "lng": -97.8688023705947,
+                                          "lat": 30.171404401799823
+                                          },
+                                          "tapeAnchorUuid": "47D7EF20-BF2E-4D7A-9DF3-92B28EDA499C",
+                                          "centerYPercentage": 40.39107711226852,
+                                          "createdUserFirstName": "Angela",
+                                          "locationUuid": "C0DDE076-7CC0-4F3F-A3E7-BE10BD3BFAB7",
+                                          "centerXPercentage": 13.37890625,
+                                          "createdUser": "ba7a3506-9f26-43a1-a9bf-02efee237a2c",
+                                          "name": "Towel fixtures",
+                                          "notes": {
+                                          "IMAGES": [{
+                                                     "content": [{
+                                                                 "contentUrl": "https://s3.amazonaws.com/023464524600-tasktape-dev/users/ba7a3506-9f26-43a1-a9bf-02efee237a2c/jobs/B5C620F1-87A6-47A9-9D7E-A6E710C36B2F/locations/C0DDE076-7CC0-4F3F-A3E7-BE10BD3BFAB7/tapes/36C2BBD9-2854-436B-8DA7-26A28A8300ED/image_note_36E57865-4003-4DED-91BA-142BD8DB3F60_000.jpg",
+                                                                 "width": 0,
+                                                                 "description": "string",
+                                                                 "mediaUuid": "AB58473B-F409-4AB4-9F8B-61AA299FBA4C",
+                                                                 "originalUrl": "https://s3.amazonaws.com/023464524600-tasktape-dev/users/ba7a3506-9f26-43a1-a9bf-02efee237a2c/jobs/B5C620F1-87A6-47A9-9D7E-A6E710C36B2F/locations/C0DDE076-7CC0-4F3F-A3E7-BE10BD3BFAB7/tapes/36C2BBD9-2854-436B-8DA7-26A28A8300ED/image_note_36E57865-4003-4DED-91BA-142BD8DB3F60_000.jpg",
+                                                                 "createdOn": 1531526933377,
+                                                                 "createdUser": "ba7a3506-9f26-43a1-a9bf-02efee237a2c",
+                                                                 "height": 0
+                                                                 }, {
+                                                                 "contentUrl": "https://s3.amazonaws.com/023464524600-tasktape-dev/users/ba7a3506-9f26-43a1-a9bf-02efee237a2c/jobs/B5C620F1-87A6-47A9-9D7E-A6E710C36B2F/locations/C0DDE076-7CC0-4F3F-A3E7-BE10BD3BFAB7/tapes/36C2BBD9-2854-436B-8DA7-26A28A8300ED/image_note_B80639BB-A67A-4E9F-BD86-4F904B24CB48_001.jpg",
+                                                                 "width": 0,
+                                                                 "description": "string",
+                                                                 "mediaUuid": "8A58F62F-10D1-48B0-87B1-7D9DBA2EC8AA",
+                                                                 "originalUrl": "https://s3.amazonaws.com/023464524600-tasktape-dev/users/ba7a3506-9f26-43a1-a9bf-02efee237a2c/jobs/B5C620F1-87A6-47A9-9D7E-A6E710C36B2F/locations/C0DDE076-7CC0-4F3F-A3E7-BE10BD3BFAB7/tapes/36C2BBD9-2854-436B-8DA7-26A28A8300ED/image_note_B80639BB-A67A-4E9F-BD86-4F904B24CB48_001.jpg",
+                                                                 "createdOn": 1531526933449,
+                                                                 "createdUser": "ba7a3506-9f26-43a1-a9bf-02efee237a2c",
+                                                                 "height": 0
+                                                                 }],
+                                                     "tapeUuid": "36C2BBD9-2854-436B-8DA7-26A28A8300ED",
+                                                     "version": 2,
+                                                     "createdUserLastName": "Mathias",
+                                                     "createdOn": 1531526939368,
+                                                     "createdUserFirstName": "Angela",
+                                                     "shareable": true,
+                                                     "description": "string",
+                                                     "createdUser": "ba7a3506-9f26-43a1-a9bf-02efee237a2c",
+                                                     "noteUuid": "FCC33D90-AB33-46C6-8BEA-F25AEA1EB830",
+                                                     "tags": [],
+                                                     "type": "IMAGES",
+                                                     "replies": []
+                                                     }, {
+                                                     "content": [{
+                                                                 "contentUrl": "https://s3.amazonaws.com/023464524600-tasktape-dev/users/ba7a3506-9f26-43a1-a9bf-02efee237a2c/jobs/B5C620F1-87A6-47A9-9D7E-A6E710C36B2F/locations/C0DDE076-7CC0-4F3F-A3E7-BE10BD3BFAB7/tapes/36C2BBD9-2854-436B-8DA7-26A28A8300ED/image_note_24B53B2A-F883-42B1-A150-FB890A875688_000.jpg",
+                                                                 "width": 0,
+                                                                 "description": "string",
+                                                                 "mediaUuid": "DAE297A2-44DE-45D3-B5D4-4E7B0D6DB25C",
+                                                                 "originalUrl": "https://s3.amazonaws.com/023464524600-tasktape-dev/users/ba7a3506-9f26-43a1-a9bf-02efee237a2c/jobs/B5C620F1-87A6-47A9-9D7E-A6E710C36B2F/locations/C0DDE076-7CC0-4F3F-A3E7-BE10BD3BFAB7/tapes/36C2BBD9-2854-436B-8DA7-26A28A8300ED/image_note_24B53B2A-F883-42B1-A150-FB890A875688_000.jpg",
+                                                                 "createdOn": 1531847741509,
+                                                                 "createdUser": "ba7a3506-9f26-43a1-a9bf-02efee237a2c",
+                                                                 "height": 0
+                                                                 }, {
+                                                                 "contentUrl": "https://s3.amazonaws.com/023464524600-tasktape-dev/users/ba7a3506-9f26-43a1-a9bf-02efee237a2c/jobs/B5C620F1-87A6-47A9-9D7E-A6E710C36B2F/locations/C0DDE076-7CC0-4F3F-A3E7-BE10BD3BFAB7/tapes/36C2BBD9-2854-436B-8DA7-26A28A8300ED/image_note_50FBCC9A-F71B-4EBB-BDEA-6E9E1C527E98_001.jpg",
+                                                                 "width": 0,
+                                                                 "description": "string",
+                                                                 "mediaUuid": "2853E4BD-F08D-4905-A90F-91CAB5AE31D8",
+                                                                 "originalUrl": "https://s3.amazonaws.com/023464524600-tasktape-dev/users/ba7a3506-9f26-43a1-a9bf-02efee237a2c/jobs/B5C620F1-87A6-47A9-9D7E-A6E710C36B2F/locations/C0DDE076-7CC0-4F3F-A3E7-BE10BD3BFAB7/tapes/36C2BBD9-2854-436B-8DA7-26A28A8300ED/image_note_50FBCC9A-F71B-4EBB-BDEA-6E9E1C527E98_001.jpg",
+                                                                 "createdOn": 1531847741583,
+                                                                 "createdUser": "ba7a3506-9f26-43a1-a9bf-02efee237a2c",
+                                                                 "height": 0
+                                                                 }],
+                                                     "tapeUuid": "36C2BBD9-2854-436B-8DA7-26A28A8300ED",
+                                                     "version": 0,
+                                                     "createdUserLastName": "Mathias",
+                                                     "createdOn": 1531847808930,
+                                                     "createdUserFirstName": "Angela",
+                                                     "shareable": true,
+                                                     "description": "string",
+                                                     "createdUser": "ba7a3506-9f26-43a1-a9bf-02efee237a2c",
+                                                     "noteUuid": "B61C520F-F16E-4487-9D3C-D114F951BD62",
+                                                     "tags": [],
+                                                     "type": "IMAGES",
+                                                     "replies": []
+                                                     }],
+                                          "TEXT": [{
+                                                   "content": [],
+                                                   "tapeUuid": "36C2BBD9-2854-436B-8DA7-26A28A8300ED",
+                                                   "version": 0,
+                                                   "createdUserLastName": "Mathias",
+                                                   "createdOn": 1531847669730,
+                                                   "createdUserFirstName": "Angela",
+                                                   "shareable": true,
+                                                   "description": "Currently there are 2 towel fixtures. 1 big towel and 1 hand towel. I'd like to replace these 2 plus add 1 more hand towel fixture and a 2 large hooks near shower. See pictures.",
+                                                   "createdUser": "ba7a3506-9f26-43a1-a9bf-02efee237a2c",
+                                                   "noteUuid": "2B92B95E-51E1-4BFD-9CB4-EFE891AFC26A",
+                                                   "tags": [],
+                                                   "type": "TEXT",
+                                                   "replies": []
+                                                   }]
+                                          }
+                                          }]
+                                }, {
+                                "tapeUuid": "9C56FB8E-F600-4616-9C3F-51DB803FACF5",
+                                "version": 0,
+                                "createdUserLastName": "Mathias",
+                                "image": {
+                                "contentUrl": "https://s3.amazonaws.com/023464524600-tasktape-dev/users/ba7a3506-9f26-43a1-a9bf-02efee237a2c/jobs/B5C620F1-87A6-47A9-9D7E-A6E710C36B2F/locations/C0DDE076-7CC0-4F3F-A3E7-BE10BD3BFAB7/tape_anchor_1FEA8788-0715-476D-994D-6B8140C1FDDB.jpg",
+                                "width": 1598,
+                                "description": "string",
+                                "mediaUuid": "5F250287-E5D1-49E4-8A7B-DCBE25146197",
+                                "originalUrl": "https://s3.amazonaws.com/023464524600-tasktape-dev/users/ba7a3506-9f26-43a1-a9bf-02efee237a2c/jobs/B5C620F1-87A6-47A9-9D7E-A6E710C36B2F/locations/C0DDE076-7CC0-4F3F-A3E7-BE10BD3BFAB7/tape_anchor_1FEA8788-0715-476D-994D-6B8140C1FDDB.jpg",
+                                "createdOn": 1531526603243,
+                                "createdUser": "ba7a3506-9f26-43a1-a9bf-02efee237a2c",
+                                "height": 1080
+                                },
+                                "createdOn": 1531526642156,
+                                "tapeAnchorUuid": "1FEA8788-0715-476D-994D-6B8140C1FDDB",
+                                "createdUserFirstName": "Angela",
+                                "locationUuid": "C0DDE076-7CC0-4F3F-A3E7-BE10BD3BFAB7",
+                                "tapes": [{
+                                          "tapeUuid": "9C56FB8E-F600-4616-9C3F-51DB803FACF5",
+                                          "version": 0,
+                                          "createdUserLastName": "Mathias",
+                                          "createdOn": 1531526642156,
+                                          "geoLocatedAt": {
+                                          "lng": -97.86887244330521,
+                                          "lat": 30.171276200590814
+                                          },
+                                          "tapeAnchorUuid": "1FEA8788-0715-476D-994D-6B8140C1FDDB",
+                                          "centerYPercentage": 54.809546055131584,
+                                          "createdUserFirstName": "Angela",
+                                          "locationUuid": "C0DDE076-7CC0-4F3F-A3E7-BE10BD3BFAB7",
+                                          "centerXPercentage": 47.900390625,
+                                          "createdUser": "ba7a3506-9f26-43a1-a9bf-02efee237a2c",
+                                          "name": "Floor",
+                                          "notes": {
+                                          "VIDEO": [{
+                                                    "content": [{
+                                                                "contentUrl": "https://s3.amazonaws.com/023464524600-tasktape-dev/users/ba7a3506-9f26-43a1-a9bf-02efee237a2c/jobs/B5C620F1-87A6-47A9-9D7E-A6E710C36B2F/locations/C0DDE076-7CC0-4F3F-A3E7-BE10BD3BFAB7/tapes/9C56FB8E-F600-4616-9C3F-51DB803FACF5/55348118085__8D137B5D-4F02-4C4D-A835-3EC2D98F4BC4.MOV",
+                                                                "width": 0,
+                                                                "description": "Ll",
+                                                                "mediaUuid": "F2138B33-77C8-4336-B98B-CE1AD62EAE6F",
+                                                                "originalUrl": "https://s3.amazonaws.com/023464524600-tasktape-dev/users/ba7a3506-9f26-43a1-a9bf-02efee237a2c/jobs/B5C620F1-87A6-47A9-9D7E-A6E710C36B2F/locations/C0DDE076-7CC0-4F3F-A3E7-BE10BD3BFAB7/tapes/9C56FB8E-F600-4616-9C3F-51DB803FACF5/55348118085__8D137B5D-4F02-4C4D-A835-3EC2D98F4BC4.MOV",
+                                                                "createdOn": 1531788503648,
+                                                                "createdUser": "ba7a3506-9f26-43a1-a9bf-02efee237a2c",
+                                                                "height": 0
+                                                                }],
+                                                    "tapeUuid": "9C56FB8E-F600-4616-9C3F-51DB803FACF5",
+                                                    "version": 0,
+                                                    "createdUserLastName": "Mathias",
+                                                    "createdOn": 1531788509561,
+                                                    "createdUserFirstName": "Angela",
+                                                    "shareable": true,
+                                                    "description": "video_note_A12FA54A-FDC5-4A09-88A7-0A5707C07638.MOV",
+                                                    "createdUser": "ba7a3506-9f26-43a1-a9bf-02efee237a2c",
+                                                    "noteUuid": "A12FA54A-FDC5-4A09-88A7-0A5707C07638",
+                                                    "tags": [],
+                                                    "type": "VIDEO",
+                                                    "replies": []
+                                                    }],
+                                          "IMAGES": [{
+                                                     "content": [{
+                                                                 "contentUrl": "https://s3.amazonaws.com/023464524600-tasktape-dev/users/ba7a3506-9f26-43a1-a9bf-02efee237a2c/jobs/B5C620F1-87A6-47A9-9D7E-A6E710C36B2F/locations/C0DDE076-7CC0-4F3F-A3E7-BE10BD3BFAB7/tapes/9C56FB8E-F600-4616-9C3F-51DB803FACF5/image_note_477F922D-DE22-4838-84E2-26F1BAC93135_000.jpg",
+                                                                 "width": 0,
+                                                                 "description": "string",
+                                                                 "mediaUuid": "A0315C15-1C84-45E3-B66C-F233A59334DC",
+                                                                 "originalUrl": "https://s3.amazonaws.com/023464524600-tasktape-dev/users/ba7a3506-9f26-43a1-a9bf-02efee237a2c/jobs/B5C620F1-87A6-47A9-9D7E-A6E710C36B2F/locations/C0DDE076-7CC0-4F3F-A3E7-BE10BD3BFAB7/tapes/9C56FB8E-F600-4616-9C3F-51DB803FACF5/image_note_477F922D-DE22-4838-84E2-26F1BAC93135_000.jpg",
+                                                                 "createdOn": 1531528216305,
+                                                                 "createdUser": "ba7a3506-9f26-43a1-a9bf-02efee237a2c",
+                                                                 "height": 0
+                                                                 }],
+                                                     "tapeUuid": "9C56FB8E-F600-4616-9C3F-51DB803FACF5",
+                                                     "version": 0,
+                                                     "createdUserLastName": "Mathias",
+                                                     "createdOn": 1531534553647,
+                                                     "createdUserFirstName": "Angela",
+                                                     "shareable": true,
+                                                     "description": "string",
+                                                     "createdUser": "ba7a3506-9f26-43a1-a9bf-02efee237a2c",
+                                                     "noteUuid": "CE20B2F9-5CAE-4C08-A97B-81E6BB18B9FA",
+                                                     "tags": [],
+                                                     "type": "IMAGES",
+                                                     "replies": []
+                                                     }],
+                                          "TEXT": [{
+                                                   "content": [],
+                                                   "tapeUuid": "9C56FB8E-F600-4616-9C3F-51DB803FACF5",
+                                                   "version": 1,
+                                                   "createdUserLastName": "Mathias",
+                                                   "createdOn": 1531788202802,
+                                                   "createdUserFirstName": "Angela",
+                                                   "shareable": true,
+                                                   "description": "10 x 11 ft. New tile. We've been told that the hardiboard may need to be replaced also. Trim: replace existing trim with 5 inch trim. I will pick and purchase tiles and grout prior to job start date.",
+                                                   "createdUser": "ba7a3506-9f26-43a1-a9bf-02efee237a2c",
+                                                   "noteUuid": "04D54144-4BF9-49FA-B285-AB2DAF0A4B94",
+                                                   "tags": [],
+                                                   "type": "TEXT",
+                                                   "replies": []
+                                                   }]
+                                          }
+                                          }]
+                                }]
+                }]
+  }, {
+  "version": 0,
+  "status": "ACTIVE",
+  "createdUserFirstName": "Testc",
+  "userRoleInJob": "ROLE_VIEWER",
+  "address": {
+  "country": "US",
+  "city": "Austin",
+  "streetAddress": "4110 Aldama Dr",
+  "timezone": "America/Chicago",
+  "addressUuid": "BC0B7F1E-FD9B-4AE8-8A62-9C5E16198283",
+  "postCode": "78739",
+  "state": "TX",
+  "geolocation": {
+  "lng": -97.86889079967315,
+  "lat": 30.1712381048409
+  }
+  },
+  "createdUser": "d261867d-3f53-45ba-a341-27934283a065",
+  "name": "Ipad T2",
+  "providerId": "walkthrough",
+  "createdUserLastName": "Testm",
+  "createdOn": 1531407404122,
+  "jobImage": {
+  "contentUrl": "https://s3.amazonaws.com/023464524600-tasktape-dev/users/d261867d-3f53-45ba-a341-27934283a065/jobs/B17AD2C1-9A80-4FAB-B32E-FB772F7C2A31/job.jpg",
+  "width": 0,
+  "description": "Testing",
+  "mediaUuid": "2D63B784-B3C4-46E8-8A0D-4BE353CDFB0C",
+  "originalUrl": "https://s3.amazonaws.com/023464524600-tasktape-dev/users/d261867d-3f53-45ba-a341-27934283a065/jobs/B17AD2C1-9A80-4FAB-B32E-FB772F7C2A31/job.jpg",
+  "createdOn": 1531407400922,
+  "createdUser": "d261867d-3f53-45ba-a341-27934283a065",
+  "height": 0
+  },
+  "isPaid": false,
+  "jobUuid": "B17AD2C1-9A80-4FAB-B32E-FB772F7C2A31",
+  "locations": [{
+                "version": 0,
+                "location": {
+                "lng": -97.86895969891722,
+                "lat": 30.171412364607836
+                },
+                "createdUserLastName": "Testm",
+                "createdOn": 1531407442321,
+                "createdUserFirstName": "Testc",
+                "jobUuid": "B17AD2C1-9A80-4FAB-B32E-FB772F7C2A31",
+                "locationUuid": "CFC4028D-01C5-4E9D-B4DE-9063426A4D35",
+                "createdUser": "d261867d-3f53-45ba-a341-27934283a065",
+                "name": "Studio",
+                "tapeAnchors": [{
+                                "tapeUuid": "91874EE3-6367-413B-84F6-3A3076D882D3",
+                                "version": 0,
+                                "createdUserLastName": "Testm",
+                                "image": {
+                                "contentUrl": "https://s3.amazonaws.com/023464524600-tasktape-dev/users/d261867d-3f53-45ba-a341-27934283a065/jobs/B17AD2C1-9A80-4FAB-B32E-FB772F7C2A31/locations/CFC4028D-01C5-4E9D-B4DE-9063426A4D35/tape_anchor_3596ECAA-F2B3-49F0-87B2-80C1F2C9466D.jpg",
+                                "width": 1540,
+                                "description": "string",
+                                "mediaUuid": "1CF14F7D-4509-4C64-84FC-598A660F2A5D",
+                                "originalUrl": "https://s3.amazonaws.com/023464524600-tasktape-dev/users/d261867d-3f53-45ba-a341-27934283a065/jobs/B17AD2C1-9A80-4FAB-B32E-FB772F7C2A31/locations/CFC4028D-01C5-4E9D-B4DE-9063426A4D35/tape_anchor_3596ECAA-F2B3-49F0-87B2-80C1F2C9466D.jpg",
+                                "createdOn": 1531451801296,
+                                "createdUser": "d261867d-3f53-45ba-a341-27934283a065",
+                                "height": 1080
+                                },
+                                "createdOn": 1531451803995,
+                                "tapeAnchorUuid": "3596ECAA-F2B3-49F0-87B2-80C1F2C9466D",
+                                "createdUserFirstName": "Testc",
+                                "locationUuid": "CFC4028D-01C5-4E9D-B4DE-9063426A4D35",
+                                "tapes": [{
+                                          "tapeUuid": "91874EE3-6367-413B-84F6-3A3076D882D3",
+                                          "version": 0,
+                                          "createdUserLastName": "Testm",
+                                          "createdOn": 1531451803994,
+                                          "geoLocatedAt": {
+                                          "lng": -97.8689609562027,
+                                          "lat": 30.171214677421535
+                                          },
+                                          "tapeAnchorUuid": "3596ECAA-F2B3-49F0-87B2-80C1F2C9466D",
+                                          "centerYPercentage": 64.34540389972145,
+                                          "createdUserFirstName": "Testc",
+                                          "locationUuid": "CFC4028D-01C5-4E9D-B4DE-9063426A4D35",
+                                          "centerXPercentage": 85.00072337962963,
+                                          "createdUser": "d261867d-3f53-45ba-a341-27934283a065",
+                                          "name": "Yyh",
+                                          "notes": {}
+                                          }]
+                                }, {
+                                "tapeUuid": "5A58978F-86E6-43D0-AFEB-7AC1739A771B",
+                                "version": 0,
+                                "createdUserLastName": "Testm",
+                                "image": {
+                                "contentUrl": "https://s3.amazonaws.com/023464524600-tasktape-dev/users/d261867d-3f53-45ba-a341-27934283a065/jobs/B17AD2C1-9A80-4FAB-B32E-FB772F7C2A31/locations/CFC4028D-01C5-4E9D-B4DE-9063426A4D35/tape_anchor_6AB36E7D-F7F2-48B8-8C67-F6E1F749D271.jpg",
+                                "width": 1540,
+                                "description": "string",
+                                "mediaUuid": "939F9622-2204-4FBA-AE96-C9425045523F",
+                                "originalUrl": "https://s3.amazonaws.com/023464524600-tasktape-dev/users/d261867d-3f53-45ba-a341-27934283a065/jobs/B17AD2C1-9A80-4FAB-B32E-FB772F7C2A31/locations/CFC4028D-01C5-4E9D-B4DE-9063426A4D35/tape_anchor_6AB36E7D-F7F2-48B8-8C67-F6E1F749D271.jpg",
+                                "createdOn": 1531407539191,
+                                "createdUser": "d261867d-3f53-45ba-a341-27934283a065",
+                                "height": 1080
+                                },
+                                "createdOn": 1531407541095,
+                                "tapeAnchorUuid": "6AB36E7D-F7F2-48B8-8C67-F6E1F749D271",
+                                "createdUserFirstName": "Testc",
+                                "locationUuid": "CFC4028D-01C5-4E9D-B4DE-9063426A4D35",
+                                "tapes": [{
+                                          "tapeUuid": "5A58978F-86E6-43D0-AFEB-7AC1739A771B",
+                                          "version": 0,
+                                          "tapeAnchorUuid": "6AB36E7D-F7F2-48B8-8C67-F6E1F749D271",
+                                          "createdUserFirstName": "Testc",
+                                          "taskCompleted": true,
+                                          "createdUser": "d261867d-3f53-45ba-a341-27934283a065",
+                                          "name": "Easel",
+                                          "createdUserLastName": "Testm",
+                                          "createdOn": 1531450858698,
+                                          "geoLocatedAt": {
+                                          "lng": -97.86872534090455,
+                                          "lat": 30.171406790642227
+                                          },
+                                          "centerYPercentage": 55.710306406685234,
+                                          "locationUuid": "CFC4028D-01C5-4E9D-B4DE-9063426A4D35",
+                                          "centerXPercentage": 69.57103587962963,
+                                          "notes": {
+                                          "IMAGES": [{
+                                                     "content": [{
+                                                                 "contentUrl": "https://s3.amazonaws.com/023464524600-tasktape-dev/users/d261867d-3f53-45ba-a341-27934283a065/jobs/B17AD2C1-9A80-4FAB-B32E-FB772F7C2A31/locations/CFC4028D-01C5-4E9D-B4DE-9063426A4D35/tapes/5A58978F-86E6-43D0-AFEB-7AC1739A771B/image_note_BE73E5E0-D5F1-461F-B7CD-053C0AA9DDB9_000.jpg",
+                                                                 "width": 0,
+                                                                 "description": "string",
+                                                                 "mediaUuid": "81425A6E-2D76-4538-9F8D-7EBB34EAFCC4",
+                                                                 "originalUrl": "https://s3.amazonaws.com/023464524600-tasktape-dev/users/d261867d-3f53-45ba-a341-27934283a065/jobs/B17AD2C1-9A80-4FAB-B32E-FB772F7C2A31/locations/CFC4028D-01C5-4E9D-B4DE-9063426A4D35/tapes/5A58978F-86E6-43D0-AFEB-7AC1739A771B/image_note_BE73E5E0-D5F1-461F-B7CD-053C0AA9DDB9_000.jpg",
+                                                                 "createdOn": 1531407664583,
+                                                                 "createdUser": "d261867d-3f53-45ba-a341-27934283a065",
+                                                                 "height": 0
+                                                                 }],
+                                                     "tapeUuid": "5A58978F-86E6-43D0-AFEB-7AC1739A771B",
+                                                     "version": 0,
+                                                     "createdUserLastName": "Testm",
+                                                     "createdOn": 1531407666902,
+                                                     "createdUserFirstName": "Testc",
+                                                     "shareable": true,
+                                                     "description": "string",
+                                                     "createdUser": "d261867d-3f53-45ba-a341-27934283a065",
+                                                     "noteUuid": "AB9FB582-C57D-4770-95A6-0C872962CAE8",
+                                                     "tags": [],
+                                                     "type": "IMAGES",
+                                                     "replies": [{
+                                                                 "content": "Adding a comment reply to this here note.",
+                                                                 "tapeUuid": "5A58978F-86E6-43D0-AFEB-7AC1739A771B",
+                                                                 "version": 2,
+                                                                 "readBy": [],
+                                                                 "createdUserFirstName": "Chris",
+                                                                 "jobOwnerUuid": "d261867d-3f53-45ba-a341-27934283a065",
+                                                                 "createdUser": "d261867d-3f53-45ba-a341-27934283a065",
+                                                                 "noteUuid": "AB9FB582-C57D-4770-95A6-0C872962CAE8",
+                                                                 "deleted": false,
+                                                                 "replyUuid": "D361F958-944D-4E1A-8142-5130F2A3B013",
+                                                                 "createdUserLastName": "Mathias",
+                                                                 "createdOn": 1533832428427,
+                                                                 "edited": true,
+                                                                 "jobUuid": "B17AD2C1-9A80-4FAB-B32E-FB772F7C2A31",
+                                                                 "locationUuid": "CFC4028D-01C5-4E9D-B4DE-9063426A4D35"
+                                                                 }]
+                                                     }],
+                                          "AUDIO": [{
+                                                    "content": [{
+                                                                "contentUrl": "https://s3.amazonaws.com/023464524600-tasktape-dev/users/d261867d-3f53-45ba-a341-27934283a065/jobs/B17AD2C1-9A80-4FAB-B32E-FB772F7C2A31/locations/CFC4028D-01C5-4E9D-B4DE-9063426A4D35/tapes/5A58978F-86E6-43D0-AFEB-7AC1739A771B/audio_note_64372704-A739-4E27-AB08-46D99143E297.m4a",
+                                                                "width": 0,
+                                                                "description": "string",
+                                                                "mediaUuid": "5D66668A-7869-4796-9F14-5B76A2857E9E",
+                                                                "originalUrl": "https://s3.amazonaws.com/023464524600-tasktape-dev/users/d261867d-3f53-45ba-a341-27934283a065/jobs/B17AD2C1-9A80-4FAB-B32E-FB772F7C2A31/locations/CFC4028D-01C5-4E9D-B4DE-9063426A4D35/tapes/5A58978F-86E6-43D0-AFEB-7AC1739A771B/audio_note_64372704-A739-4E27-AB08-46D99143E297.m4a",
+                                                                "createdOn": 1531407739842,
+                                                                "createdUser": "d261867d-3f53-45ba-a341-27934283a065",
+                                                                "height": 0
+                                                                }],
+                                                    "tapeUuid": "5A58978F-86E6-43D0-AFEB-7AC1739A771B",
+                                                    "version": 0,
+                                                    "createdUserLastName": "Testm",
+                                                    "createdOn": 1531407741021,
+                                                    "createdUserFirstName": "Testc",
+                                                    "shareable": true,
+                                                    "description": "audio_note_64372704-A739-4E27-AB08-46D99143E297.m4a",
+                                                    "createdUser": "d261867d-3f53-45ba-a341-27934283a065",
+                                                    "noteUuid": "64372704-A739-4E27-AB08-46D99143E297",
+                                                    "tags": [],
+                                                    "type": "AUDIO",
+                                                    "replies": []
+                                                    }]
+                                          }
+                                          }]
+                                }]
+                }]
+  }, {
+  "version": 0,
+  "status": "ACTIVE",
+  "createdUserFirstName": "RJ",
+  "userRoleInJob": "ROLE_VIEWER",
+  "address": {
+  "country": "US",
+  "city": "Austin",
+  "streetAddress": "3838 Steck Ave",
+  "timezone": "America/Chicago",
+  "addressUuid": "3377FBBA-FCD2-4014-A936-5072CAE81680",
+  "postCode": "78759",
+  "state": "TX",
+  "geolocation": {
+  "lng": -97.75013876156672,
+  "lat": 30.373539403109227
+  }
+  },
+  "createdUser": "26ff9f3c-aa0a-499c-b81e-050044657385",
+  "name": "Curtains & Chairs",
+  "providerId": "walkthrough",
+  "createdUserLastName": "Garcia",
+  "createdOn": 1531362912699,
+  "jobImage": {
+  "contentUrl": "https://s3.amazonaws.com/023464524600-tasktape-dev/users/26ff9f3c-aa0a-499c-b81e-050044657385/jobs/0A02D5CE-0BBE-4BEC-9653-698A513A2C0C/job.jpg",
+  "width": 0,
+  "description": "Need to move chairs and redo curtains ",
+  "mediaUuid": "133BC075-6E6D-42AE-B96B-669B14386F56",
+  "originalUrl": "https://s3.amazonaws.com/023464524600-tasktape-dev/users/26ff9f3c-aa0a-499c-b81e-050044657385/jobs/0A02D5CE-0BBE-4BEC-9653-698A513A2C0C/job.jpg",
+  "createdOn": 1531329530775,
+  "createdUser": "26ff9f3c-aa0a-499c-b81e-050044657385",
+  "height": 0
+  },
+  "isPaid": false,
+  "jobUuid": "0A02D5CE-0BBE-4BEC-9653-698A513A2C0C",
+  "locations": [{
+                "version": 0,
+                "location": {
+                "lng": -97.68768022844453,
+                "lat": 30.60778475778189
+                },
+                "createdUserLastName": "Garcia",
+                "createdOn": 1531431925005,
+                "createdUserFirstName": "RJ",
+                "jobUuid": "0A02D5CE-0BBE-4BEC-9653-698A513A2C0C",
+                "locationUuid": "B41C3513-CB58-4F91-B164-EAEFF11838F0",
+                "createdUser": "26ff9f3c-aa0a-499c-b81e-050044657385",
+                "name": "fix curtain rod",
+                "tapeAnchors": [{
+                                "tapeUuid": "B7CC3079-CEA4-4C14-B47B-A03291088D55",
+                                "version": 0,
+                                "createdUserLastName": "Garcia",
+                                "image": {
+                                "contentUrl": "https://s3.amazonaws.com/023464524600-tasktape-dev/users/26ff9f3c-aa0a-499c-b81e-050044657385/jobs/0A02D5CE-0BBE-4BEC-9653-698A513A2C0C/locations/B41C3513-CB58-4F91-B164-EAEFF11838F0/tape_anchor_053A0AF5-41A0-437D-944E-9C93F7E71D79.jpg",
+                                "width": 1920,
+                                "description": "string",
+                                "mediaUuid": "37EA4D84-068F-4AEB-BACF-21D3FA531CA8",
+                                "originalUrl": "https://s3.amazonaws.com/023464524600-tasktape-dev/users/26ff9f3c-aa0a-499c-b81e-050044657385/jobs/0A02D5CE-0BBE-4BEC-9653-698A513A2C0C/locations/B41C3513-CB58-4F91-B164-EAEFF11838F0/tape_anchor_053A0AF5-41A0-437D-944E-9C93F7E71D79.jpg",
+                                "createdOn": 1531528802578,
+                                "createdUser": "26ff9f3c-aa0a-499c-b81e-050044657385",
+                                "height": 951
+                                },
+                                "createdOn": 1531574848611,
+                                "tapeAnchorUuid": "053A0AF5-41A0-437D-944E-9C93F7E71D79",
+                                "createdUserFirstName": "RJ",
+                                "locationUuid": "B41C3513-CB58-4F91-B164-EAEFF11838F0",
+                                "tapes": [{
+                                          "tapeUuid": "B7CC3079-CEA4-4C14-B47B-A03291088D55",
+                                          "version": 0,
+                                          "createdUserLastName": "Garcia",
+                                          "createdOn": 1531574848611,
+                                          "geoLocatedAt": {
+                                          "lng": -97.67725771824747,
+                                          "lat": 30.59259628138469
+                                          },
+                                          "tapeAnchorUuid": "053A0AF5-41A0-437D-944E-9C93F7E71D79",
+                                          "centerYPercentage": 45.421244023920416,
+                                          "createdUserFirstName": "RJ",
+                                          "locationUuid": "B41C3513-CB58-4F91-B164-EAEFF11838F0",
+                                          "centerXPercentage": 60.11478192291867,
+                                          "createdUser": "26ff9f3c-aa0a-499c-b81e-050044657385",
+                                          "name": "paint it ",
+                                          "notes": {
+                                          "AUDIO": [{
+                                                    "content": [{
+                                                                "contentUrl": "https://s3.amazonaws.com/023464524600-tasktape-dev/users/26ff9f3c-aa0a-499c-b81e-050044657385/jobs/0A02D5CE-0BBE-4BEC-9653-698A513A2C0C/locations/B41C3513-CB58-4F91-B164-EAEFF11838F0/tapes/B7CC3079-CEA4-4C14-B47B-A03291088D55/audio_note_A363B4F2-262E-48A7-B955-15129D41412A.m4a",
+                                                                "width": 0,
+                                                                "description": "string",
+                                                                "mediaUuid": "9B5D45D6-9D5D-44B0-95C7-D057340C0E07",
+                                                                "originalUrl": "https://s3.amazonaws.com/023464524600-tasktape-dev/users/26ff9f3c-aa0a-499c-b81e-050044657385/jobs/0A02D5CE-0BBE-4BEC-9653-698A513A2C0C/locations/B41C3513-CB58-4F91-B164-EAEFF11838F0/tapes/B7CC3079-CEA4-4C14-B47B-A03291088D55/audio_note_A363B4F2-262E-48A7-B955-15129D41412A.m4a",
+                                                                "createdOn": 1531528835950,
+                                                                "createdUser": "26ff9f3c-aa0a-499c-b81e-050044657385",
+                                                                "height": 0
+                                                                }],
+                                                    "tapeUuid": "B7CC3079-CEA4-4C14-B47B-A03291088D55",
+                                                    "version": 0,
+                                                    "createdUserLastName": "Garcia",
+                                                    "createdOn": 1531574855847,
+                                                    "createdUserFirstName": "RJ",
+                                                    "shareable": true,
+                                                    "description": "audio_note_A363B4F2-262E-48A7-B955-15129D41412A.m4a",
+                                                    "createdUser": "26ff9f3c-aa0a-499c-b81e-050044657385",
+                                                    "noteUuid": "A363B4F2-262E-48A7-B955-15129D41412A",
+                                                    "tags": [],
+                                                    "type": "AUDIO",
+                                                    "replies": [{
+                                                                "content": "I think this would be better represented with a wider camera view. I have no idea which room of the house you are in.",
+                                                                "tapeUuid": "B7CC3079-CEA4-4C14-B47B-A03291088D55",
+                                                                "version": 2,
+                                                                "readBy": ["26ff9f3c-aa0a-499c-b81e-050044657385", "05d06106-1728-4d08-b8c6-8a03bf8f3f58"],
+                                                                "createdUserFirstName": "Chris",
+                                                                "jobOwnerUuid": "274a3322-56ec-48f6-9dda-af1e9675f56d",
+                                                                "createdUser": "274a3322-56ec-48f6-9dda-af1e9675f56d",
+                                                                "noteUuid": "A363B4F2-262E-48A7-B955-15129D41412A",
+                                                                "deleted": false,
+                                                                "replyUuid": "7EDAFAA8-7188-441C-81CD-E0C86DECCBBF",
+                                                                "createdUserLastName": "Mathiasrer",
+                                                                "createdOn": 1531577175133,
+                                                                "edited": false,
+                                                                "jobUuid": "0A02D5CE-0BBE-4BEC-9653-698A513A2C0C",
+                                                                "locationUuid": "B41C3513-CB58-4F91-B164-EAEFF11838F0"
+                                                                }, {
+                                                                "content": "Way to go!",
+                                                                "tapeUuid": "B7CC3079-CEA4-4C14-B47B-A03291088D55",
+                                                                "version": 2,
+                                                                "readBy": ["274a3322-56ec-48f6-9dda-af1e9675f56d", "05d06106-1728-4d08-b8c6-8a03bf8f3f58"],
+                                                                "createdUserFirstName": "RJ",
+                                                                "jobOwnerUuid": "26ff9f3c-aa0a-499c-b81e-050044657385",
+                                                                "createdUser": "26ff9f3c-aa0a-499c-b81e-050044657385",
+                                                                "noteUuid": "A363B4F2-262E-48A7-B955-15129D41412A",
+                                                                "deleted": false,
+                                                                "replyUuid": "8614479F-4E1F-4450-989E-3B889584D9C0",
+                                                                "createdUserLastName": "Garcia",
+                                                                "createdOn": 1531579702595,
+                                                                "edited": false,
+                                                                "jobUuid": "0A02D5CE-0BBE-4BEC-9653-698A513A2C0C",
+                                                                "locationUuid": "B41C3513-CB58-4F91-B164-EAEFF11838F0"
+                                                                }]
+                                                    }]
+                                          }
+                                          }]
+                                }]
+                }, {
+                "version": 0,
+                "location": {
+                "lng": -97.68616386790981,
+                "lat": 30.61593532571158
+                },
+                "createdUserLastName": "Garcia",
+                "createdOn": 1531366149240,
+                "createdUserFirstName": "RJ",
+                "jobUuid": "0A02D5CE-0BBE-4BEC-9653-698A513A2C0C",
+                "locationUuid": "689EAF18-1F09-4710-9B83-8F82A7328412",
+                "createdUser": "26ff9f3c-aa0a-499c-b81e-050044657385",
+                "name": "curtains",
+                "tapeAnchors": []
+                }]
+  }, {
+  "version": 0,
+  "status": "ACTIVE",
+  "createdUserFirstName": "Testc",
+  "userRoleInJob": "ROLE_VIEWER",
+  "address": {
+  "country": "US",
+  "city": "Austin",
+  "streetAddress": "4110 Aldama Dr",
+  "timezone": "America/Chicago",
+  "addressUuid": "BC0B7F1E-FD9B-4AE8-8A62-9C5E16198283",
+  "postCode": "78739",
+  "state": "TX",
+  "geolocation": {
+  "lng": -97.86889079967315,
+  "lat": 30.1712381048409
+  }
+  },
+  "createdUser": "d261867d-3f53-45ba-a341-27934283a065",
+  "name": "Ipad T2",
+  "providerId": "walkthrough",
+  "createdUserLastName": "Testm",
+  "createdOn": 1531407404122,
+  "jobImage": {
+  "contentUrl": "https://s3.amazonaws.com/023464524600-tasktape-dev/users/d261867d-3f53-45ba-a341-27934283a065/jobs/B17AD2C1-9A80-4FAB-B32E-FB772F7C2A31/job.jpg",
+  "width": 0,
+  "description": "Testing",
+  "mediaUuid": "2D63B784-B3C4-46E8-8A0D-4BE353CDFB0C",
+  "originalUrl": "https://s3.amazonaws.com/023464524600-tasktape-dev/users/d261867d-3f53-45ba-a341-27934283a065/jobs/B17AD2C1-9A80-4FAB-B32E-FB772F7C2A31/job.jpg",
+  "createdOn": 1531407400922,
+  "createdUser": "d261867d-3f53-45ba-a341-27934283a065",
+  "height": 0
+  },
+  "isPaid": false,
+  "jobUuid": "B17AD2C1-9A80-4FAB-B32E-FB772F7C2A31",
+  "locations": [{
+                "version": 0,
+                "location": {
+                "lng": -97.86895969891722,
+                "lat": 30.171412364607836
+                },
+                "createdUserLastName": "Testm",
+                "createdOn": 1531407442321,
+                "createdUserFirstName": "Testc",
+                "jobUuid": "B17AD2C1-9A80-4FAB-B32E-FB772F7C2A31",
+                "locationUuid": "CFC4028D-01C5-4E9D-B4DE-9063426A4D35",
+                "createdUser": "d261867d-3f53-45ba-a341-27934283a065",
+                "name": "Studio",
+                "tapeAnchors": [{
+                                "tapeUuid": "91874EE3-6367-413B-84F6-3A3076D882D3",
+                                "version": 0,
+                                "createdUserLastName": "Testm",
+                                "image": {
+                                "contentUrl": "https://s3.amazonaws.com/023464524600-tasktape-dev/users/d261867d-3f53-45ba-a341-27934283a065/jobs/B17AD2C1-9A80-4FAB-B32E-FB772F7C2A31/locations/CFC4028D-01C5-4E9D-B4DE-9063426A4D35/tape_anchor_3596ECAA-F2B3-49F0-87B2-80C1F2C9466D.jpg",
+                                "width": 1540,
+                                "description": "string",
+                                "mediaUuid": "1CF14F7D-4509-4C64-84FC-598A660F2A5D",
+                                "originalUrl": "https://s3.amazonaws.com/023464524600-tasktape-dev/users/d261867d-3f53-45ba-a341-27934283a065/jobs/B17AD2C1-9A80-4FAB-B32E-FB772F7C2A31/locations/CFC4028D-01C5-4E9D-B4DE-9063426A4D35/tape_anchor_3596ECAA-F2B3-49F0-87B2-80C1F2C9466D.jpg",
+                                "createdOn": 1531451801296,
+                                "createdUser": "d261867d-3f53-45ba-a341-27934283a065",
+                                "height": 1080
+                                },
+                                "createdOn": 1531451803995,
+                                "tapeAnchorUuid": "3596ECAA-F2B3-49F0-87B2-80C1F2C9466D",
+                                "createdUserFirstName": "Testc",
+                                "locationUuid": "CFC4028D-01C5-4E9D-B4DE-9063426A4D35",
+                                "tapes": [{
+                                          "tapeUuid": "91874EE3-6367-413B-84F6-3A3076D882D3",
+                                          "version": 0,
+                                          "createdUserLastName": "Testm",
+                                          "createdOn": 1531451803994,
+                                          "geoLocatedAt": {
+                                          "lng": -97.8689609562027,
+                                          "lat": 30.171214677421535
+                                          },
+                                          "tapeAnchorUuid": "3596ECAA-F2B3-49F0-87B2-80C1F2C9466D",
+                                          "centerYPercentage": 64.34540389972145,
+                                          "createdUserFirstName": "Testc",
+                                          "locationUuid": "CFC4028D-01C5-4E9D-B4DE-9063426A4D35",
+                                          "centerXPercentage": 85.00072337962963,
+                                          "createdUser": "d261867d-3f53-45ba-a341-27934283a065",
+                                          "name": "Yyh",
+                                          "notes": {}
+                                          }]
+                                }, {
+                                "tapeUuid": "5A58978F-86E6-43D0-AFEB-7AC1739A771B",
+                                "version": 0,
+                                "createdUserLastName": "Testm",
+                                "image": {
+                                "contentUrl": "https://s3.amazonaws.com/023464524600-tasktape-dev/users/d261867d-3f53-45ba-a341-27934283a065/jobs/B17AD2C1-9A80-4FAB-B32E-FB772F7C2A31/locations/CFC4028D-01C5-4E9D-B4DE-9063426A4D35/tape_anchor_6AB36E7D-F7F2-48B8-8C67-F6E1F749D271.jpg",
+                                "width": 1540,
+                                "description": "string",
+                                "mediaUuid": "939F9622-2204-4FBA-AE96-C9425045523F",
+                                "originalUrl": "https://s3.amazonaws.com/023464524600-tasktape-dev/users/d261867d-3f53-45ba-a341-27934283a065/jobs/B17AD2C1-9A80-4FAB-B32E-FB772F7C2A31/locations/CFC4028D-01C5-4E9D-B4DE-9063426A4D35/tape_anchor_6AB36E7D-F7F2-48B8-8C67-F6E1F749D271.jpg",
+                                "createdOn": 1531407539191,
+                                "createdUser": "d261867d-3f53-45ba-a341-27934283a065",
+                                "height": 1080
+                                },
+                                "createdOn": 1531407541095,
+                                "tapeAnchorUuid": "6AB36E7D-F7F2-48B8-8C67-F6E1F749D271",
+                                "createdUserFirstName": "Testc",
+                                "locationUuid": "CFC4028D-01C5-4E9D-B4DE-9063426A4D35",
+                                "tapes": [{
+                                          "tapeUuid": "5A58978F-86E6-43D0-AFEB-7AC1739A771B",
+                                          "version": 0,
+                                          "tapeAnchorUuid": "6AB36E7D-F7F2-48B8-8C67-F6E1F749D271",
+                                          "createdUserFirstName": "Testc",
+                                          "taskCompleted": true,
+                                          "createdUser": "d261867d-3f53-45ba-a341-27934283a065",
+                                          "name": "Easel",
+                                          "createdUserLastName": "Testm",
+                                          "createdOn": 1531450858698,
+                                          "geoLocatedAt": {
+                                          "lng": -97.86872534090455,
+                                          "lat": 30.171406790642227
+                                          },
+                                          "centerYPercentage": 55.710306406685234,
+                                          "locationUuid": "CFC4028D-01C5-4E9D-B4DE-9063426A4D35",
+                                          "centerXPercentage": 69.57103587962963,
+                                          "notes": {
+                                          "IMAGES": [{
+                                                     "content": [{
+                                                                 "contentUrl": "https://s3.amazonaws.com/023464524600-tasktape-dev/users/d261867d-3f53-45ba-a341-27934283a065/jobs/B17AD2C1-9A80-4FAB-B32E-FB772F7C2A31/locations/CFC4028D-01C5-4E9D-B4DE-9063426A4D35/tapes/5A58978F-86E6-43D0-AFEB-7AC1739A771B/image_note_BE73E5E0-D5F1-461F-B7CD-053C0AA9DDB9_000.jpg",
+                                                                 "width": 0,
+                                                                 "description": "string",
+                                                                 "mediaUuid": "81425A6E-2D76-4538-9F8D-7EBB34EAFCC4",
+                                                                 "originalUrl": "https://s3.amazonaws.com/023464524600-tasktape-dev/users/d261867d-3f53-45ba-a341-27934283a065/jobs/B17AD2C1-9A80-4FAB-B32E-FB772F7C2A31/locations/CFC4028D-01C5-4E9D-B4DE-9063426A4D35/tapes/5A58978F-86E6-43D0-AFEB-7AC1739A771B/image_note_BE73E5E0-D5F1-461F-B7CD-053C0AA9DDB9_000.jpg",
+                                                                 "createdOn": 1531407664583,
+                                                                 "createdUser": "d261867d-3f53-45ba-a341-27934283a065",
+                                                                 "height": 0
+                                                                 }],
+                                                     "tapeUuid": "5A58978F-86E6-43D0-AFEB-7AC1739A771B",
+                                                     "version": 0,
+                                                     "createdUserLastName": "Testm",
+                                                     "createdOn": 1531407666902,
+                                                     "createdUserFirstName": "Testc",
+                                                     "shareable": true,
+                                                     "description": "string",
+                                                     "createdUser": "d261867d-3f53-45ba-a341-27934283a065",
+                                                     "noteUuid": "AB9FB582-C57D-4770-95A6-0C872962CAE8",
+                                                     "tags": [],
+                                                     "type": "IMAGES",
+                                                     "replies": [{
+                                                                 "content": "Adding a comment reply to this here note.",
+                                                                 "tapeUuid": "5A58978F-86E6-43D0-AFEB-7AC1739A771B",
+                                                                 "version": 2,
+                                                                 "readBy": [],
+                                                                 "createdUserFirstName": "Chris",
+                                                                 "jobOwnerUuid": "d261867d-3f53-45ba-a341-27934283a065",
+                                                                 "createdUser": "d261867d-3f53-45ba-a341-27934283a065",
+                                                                 "noteUuid": "AB9FB582-C57D-4770-95A6-0C872962CAE8",
+                                                                 "deleted": false,
+                                                                 "replyUuid": "D361F958-944D-4E1A-8142-5130F2A3B013",
+                                                                 "createdUserLastName": "Mathias",
+                                                                 "createdOn": 1533832428427,
+                                                                 "edited": true,
+                                                                 "jobUuid": "B17AD2C1-9A80-4FAB-B32E-FB772F7C2A31",
+                                                                 "locationUuid": "CFC4028D-01C5-4E9D-B4DE-9063426A4D35"
+                                                                 }]
+                                                     }],
+                                          "AUDIO": [{
+                                                    "content": [{
+                                                                "contentUrl": "https://s3.amazonaws.com/023464524600-tasktape-dev/users/d261867d-3f53-45ba-a341-27934283a065/jobs/B17AD2C1-9A80-4FAB-B32E-FB772F7C2A31/locations/CFC4028D-01C5-4E9D-B4DE-9063426A4D35/tapes/5A58978F-86E6-43D0-AFEB-7AC1739A771B/audio_note_64372704-A739-4E27-AB08-46D99143E297.m4a",
+                                                                "width": 0,
+                                                                "description": "string",
+                                                                "mediaUuid": "5D66668A-7869-4796-9F14-5B76A2857E9E",
+                                                                "originalUrl": "https://s3.amazonaws.com/023464524600-tasktape-dev/users/d261867d-3f53-45ba-a341-27934283a065/jobs/B17AD2C1-9A80-4FAB-B32E-FB772F7C2A31/locations/CFC4028D-01C5-4E9D-B4DE-9063426A4D35/tapes/5A58978F-86E6-43D0-AFEB-7AC1739A771B/audio_note_64372704-A739-4E27-AB08-46D99143E297.m4a",
+                                                                "createdOn": 1531407739842,
+                                                                "createdUser": "d261867d-3f53-45ba-a341-27934283a065",
+                                                                "height": 0
+                                                                }],
+                                                    "tapeUuid": "5A58978F-86E6-43D0-AFEB-7AC1739A771B",
+                                                    "version": 0,
+                                                    "createdUserLastName": "Testm",
+                                                    "createdOn": 1531407741021,
+                                                    "createdUserFirstName": "Testc",
+                                                    "shareable": true,
+                                                    "description": "audio_note_64372704-A739-4E27-AB08-46D99143E297.m4a",
+                                                    "createdUser": "d261867d-3f53-45ba-a341-27934283a065",
+                                                    "noteUuid": "64372704-A739-4E27-AB08-46D99143E297",
+                                                    "tags": [],
+                                                    "type": "AUDIO",
+                                                    "replies": []
+                                                    }]
+                                          }
+                                          }]
+                                }]
+                }]
+  }]

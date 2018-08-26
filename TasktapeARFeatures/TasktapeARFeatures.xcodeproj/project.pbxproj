@@ -1,0 +1,504 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 50;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		B6280FE2144C87E05836A0B7 /* Pods_TaskTape_AR_Features.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0EF18C8FAF59147ABC71DB57 /* Pods_TaskTape_AR_Features.framework */; };
+		FA3C88C920FBF97B00C437C7 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA3C88C820FBF97B00C437C7 /* AppDelegate.swift */; };
+		FA3C88CD20FBF97B00C437C7 /* JobFinderViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA3C88CC20FBF97B00C437C7 /* JobFinderViewController.swift */; };
+		FA3C88D020FBF97B00C437C7 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FA3C88CE20FBF97B00C437C7 /* Main.storyboard */; };
+		FA3C88D520FBF97D00C437C7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FA3C88D320FBF97D00C437C7 /* LaunchScreen.storyboard */; };
+		FA3C88DD20FC0F9F00C437C7 /* JobData.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA3C88DC20FC0F9F00C437C7 /* JobData.swift */; };
+		FA3C88E020FC123700C437C7 /* StatusViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA3C88DF20FC123700C437C7 /* StatusViewController.swift */; };
+		FA3C88E620FD05D300C437C7 /* JobFinderViewController+Actions.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA3C88E520FD05D300C437C7 /* JobFinderViewController+Actions.swift */; };
+		FA3C88E820FD0BF500C437C7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FA3C88E720FD0BF500C437C7 /* Assets.xcassets */; };
+		FA3C88EA20FD0C4200C437C7 /* JobFinderViewController+ARCL.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA3C88E920FD0C4200C437C7 /* JobFinderViewController+ARCL.swift */; };
+		FA8A7A1120FDA916004FE8AE /* JobData.json in Resources */ = {isa = PBXBuildFile; fileRef = FA8A7A1020FDA916004FE8AE /* JobData.json */; };
+		FA9BA5C020FFA175009B3307 /* readme.md in Resources */ = {isa = PBXBuildFile; fileRef = FA9BA5BF20FFA175009B3307 /* readme.md */; };
+		FAC312AD2129034B007E938A /* ScnKitTester.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAC312AC2129034B007E938A /* ScnKitTester.swift */; };
+		FAC312B02129C0EA007E938A /* UIImage+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAC312AF2129C0EA007E938A /* UIImage+Extension.swift */; };
+		FAC312B32129ECFC007E938A /* AreaHeadingViewController+ARKit.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAC312B12129ECFC007E938A /* AreaHeadingViewController+ARKit.swift */; };
+		FAC312B42129ECFC007E938A /* AreaHeadingViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAC312B22129ECFC007E938A /* AreaHeadingViewController.swift */; };
+		FAC312B62129F59F007E938A /* UIBezierPath+Arrow.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAC312B52129F59F007E938A /* UIBezierPath+Arrow.swift */; };
+		FAE078F720FD3041007C525A /* HomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA56BEF320FD277200CD5B86 /* HomeViewController.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		0EF18C8FAF59147ABC71DB57 /* Pods_TaskTape_AR_Features.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_TaskTape_AR_Features.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		4ECE4ACF8B87679A23E92699 /* Pods-TaskTape AR Features.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TaskTape AR Features.release.xcconfig"; path = "Pods/Target Support Files/Pods-TaskTape AR Features/Pods-TaskTape AR Features.release.xcconfig"; sourceTree = "<group>"; };
+		E93F5BF6E9705F84E19F3595 /* Pods-TaskTape AR Features.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TaskTape AR Features.debug.xcconfig"; path = "Pods/Target Support Files/Pods-TaskTape AR Features/Pods-TaskTape AR Features.debug.xcconfig"; sourceTree = "<group>"; };
+		FA3C88C520FBF97B00C437C7 /* TaskTape AR Features.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "TaskTape AR Features.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		FA3C88C820FBF97B00C437C7 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		FA3C88CC20FBF97B00C437C7 /* JobFinderViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JobFinderViewController.swift; sourceTree = "<group>"; };
+		FA3C88CF20FBF97B00C437C7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		FA3C88D420FBF97D00C437C7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		FA3C88D620FBF97D00C437C7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FA3C88DC20FC0F9F00C437C7 /* JobData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = JobData.swift; path = TaskTapeARFeatures/Data/JobData.swift; sourceTree = SOURCE_ROOT; };
+		FA3C88DF20FC123700C437C7 /* StatusViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = StatusViewController.swift; sourceTree = "<group>"; };
+		FA3C88E520FD05D300C437C7 /* JobFinderViewController+Actions.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "JobFinderViewController+Actions.swift"; sourceTree = "<group>"; };
+		FA3C88E720FD0BF500C437C7 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Assets.xcassets; path = TasktapeARFeatures/Resources/Assets.xcassets; sourceTree = SOURCE_ROOT; };
+		FA3C88E920FD0C4200C437C7 /* JobFinderViewController+ARCL.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = "JobFinderViewController+ARCL.swift"; path = "../../TasktapeARFeatures/ViewControllers/JobFinderViewController+ARCL.swift"; sourceTree = "<group>"; };
+		FA56BEF320FD277200CD5B86 /* HomeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeViewController.swift; sourceTree = "<group>"; };
+		FA8A7A1020FDA916004FE8AE /* JobData.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; name = JobData.json; path = TasktapeARFeatures/Data/JobData.json; sourceTree = SOURCE_ROOT; };
+		FA9BA5BF20FFA175009B3307 /* readme.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = readme.md; sourceTree = "<group>"; };
+		FAC312AC2129034B007E938A /* ScnKitTester.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScnKitTester.swift; sourceTree = "<group>"; };
+		FAC312AF2129C0EA007E938A /* UIImage+Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = "UIImage+Extension.swift"; path = "TasktapeARFeatures/Util/UIImage+Extension.swift"; sourceTree = SOURCE_ROOT; };
+		FAC312B12129ECFC007E938A /* AreaHeadingViewController+ARKit.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "AreaHeadingViewController+ARKit.swift"; path = "TasktapeARFeatures/ViewControllers/AreaHeadingViewController+ARKit.swift"; sourceTree = SOURCE_ROOT; };
+		FAC312B22129ECFC007E938A /* AreaHeadingViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = AreaHeadingViewController.swift; path = TasktapeARFeatures/ViewControllers/AreaHeadingViewController.swift; sourceTree = SOURCE_ROOT; };
+		FAC312B52129F59F007E938A /* UIBezierPath+Arrow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIBezierPath+Arrow.swift"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		FA3C88C220FBF97B00C437C7 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				B6280FE2144C87E05836A0B7 /* Pods_TaskTape_AR_Features.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		4261A78D5212A8D7BB9E1070 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				E93F5BF6E9705F84E19F3595 /* Pods-TaskTape AR Features.debug.xcconfig */,
+				4ECE4ACF8B87679A23E92699 /* Pods-TaskTape AR Features.release.xcconfig */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
+		DA6334DC766A5ADB93DE44B9 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				0EF18C8FAF59147ABC71DB57 /* Pods_TaskTape_AR_Features.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		FA3C88BC20FBF97B00C437C7 = {
+			isa = PBXGroup;
+			children = (
+				FA9BA5BF20FFA175009B3307 /* readme.md */,
+				FA3C88C720FBF97B00C437C7 /* TaskTapeARFeatures */,
+				FA3C88C620FBF97B00C437C7 /* Products */,
+				4261A78D5212A8D7BB9E1070 /* Pods */,
+				DA6334DC766A5ADB93DE44B9 /* Frameworks */,
+			);
+			sourceTree = "<group>";
+		};
+		FA3C88C620FBF97B00C437C7 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				FA3C88C520FBF97B00C437C7 /* TaskTape AR Features.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		FA3C88C720FBF97B00C437C7 /* TaskTapeARFeatures */ = {
+			isa = PBXGroup;
+			children = (
+				FAC312AE2129C0D7007E938A /* Util */,
+				FA3C88E420FC12A400C437C7 /* Data */,
+				FA3C88E320FC126100C437C7 /* Storyboards */,
+				FA3C88E220FC125000C437C7 /* Resources */,
+				FA3C88E120FC124200C437C7 /* AppDelegate */,
+				FA3C88DE20FC121100C437C7 /* ViewControllers */,
+				FA3C88D620FBF97D00C437C7 /* Info.plist */,
+			);
+			path = TaskTapeARFeatures;
+			sourceTree = "<group>";
+		};
+		FA3C88DE20FC121100C437C7 /* ViewControllers */ = {
+			isa = PBXGroup;
+			children = (
+				FAC312B22129ECFC007E938A /* AreaHeadingViewController.swift */,
+				FAC312B12129ECFC007E938A /* AreaHeadingViewController+ARKit.swift */,
+				FA3C88CC20FBF97B00C437C7 /* JobFinderViewController.swift */,
+				FA3C88E520FD05D300C437C7 /* JobFinderViewController+Actions.swift */,
+				FA3C88E920FD0C4200C437C7 /* JobFinderViewController+ARCL.swift */,
+				FAC312AC2129034B007E938A /* ScnKitTester.swift */,
+				FA3C88DF20FC123700C437C7 /* StatusViewController.swift */,
+				FA56BEF320FD277200CD5B86 /* HomeViewController.swift */,
+				FAC312B52129F59F007E938A /* UIBezierPath+Arrow.swift */,
+			);
+			path = ViewControllers;
+			sourceTree = "<group>";
+		};
+		FA3C88E120FC124200C437C7 /* AppDelegate */ = {
+			isa = PBXGroup;
+			children = (
+				FA3C88C820FBF97B00C437C7 /* AppDelegate.swift */,
+			);
+			path = AppDelegate;
+			sourceTree = "<group>";
+		};
+		FA3C88E220FC125000C437C7 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				FA3C88E720FD0BF500C437C7 /* Assets.xcassets */,
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
+		FA3C88E320FC126100C437C7 /* Storyboards */ = {
+			isa = PBXGroup;
+			children = (
+				FA3C88CE20FBF97B00C437C7 /* Main.storyboard */,
+				FA3C88D320FBF97D00C437C7 /* LaunchScreen.storyboard */,
+			);
+			path = Storyboards;
+			sourceTree = "<group>";
+		};
+		FA3C88E420FC12A400C437C7 /* Data */ = {
+			isa = PBXGroup;
+			children = (
+				FA3C88DC20FC0F9F00C437C7 /* JobData.swift */,
+				FA8A7A1020FDA916004FE8AE /* JobData.json */,
+			);
+			path = Data;
+			sourceTree = "<group>";
+		};
+		FAC312AE2129C0D7007E938A /* Util */ = {
+			isa = PBXGroup;
+			children = (
+				FAC312AF2129C0EA007E938A /* UIImage+Extension.swift */,
+			);
+			path = Util;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		FA3C88C420FBF97B00C437C7 /* TaskTape AR Features */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = FA3C88D920FBF97D00C437C7 /* Build configuration list for PBXNativeTarget "TaskTape AR Features" */;
+			buildPhases = (
+				9428383BEDEDB29512D19C73 /* [CP] Check Pods Manifest.lock */,
+				FA3C88C120FBF97B00C437C7 /* Sources */,
+				FA3C88C220FBF97B00C437C7 /* Frameworks */,
+				FA3C88C320FBF97B00C437C7 /* Resources */,
+				FE867902862FB92FDB63B49E /* [CP] Embed Pods Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "TaskTape AR Features";
+			productName = "TaskTape AR Features";
+			productReference = FA3C88C520FBF97B00C437C7 /* TaskTape AR Features.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		FA3C88BD20FBF97B00C437C7 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 0940;
+				LastUpgradeCheck = 0940;
+				ORGANIZATIONNAME = SolipsAR;
+				TargetAttributes = {
+					FA3C88C420FBF97B00C437C7 = {
+						CreatedOnToolsVersion = 9.4;
+					};
+				};
+			};
+			buildConfigurationList = FA3C88C020FBF97B00C437C7 /* Build configuration list for PBXProject "TasktapeARFeatures" */;
+			compatibilityVersion = "Xcode 9.3";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = FA3C88BC20FBF97B00C437C7;
+			productRefGroup = FA3C88C620FBF97B00C437C7 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				FA3C88C420FBF97B00C437C7 /* TaskTape AR Features */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		FA3C88C320FBF97B00C437C7 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				FA8A7A1120FDA916004FE8AE /* JobData.json in Resources */,
+				FA3C88D520FBF97D00C437C7 /* LaunchScreen.storyboard in Resources */,
+				FA3C88E820FD0BF500C437C7 /* Assets.xcassets in Resources */,
+				FA9BA5C020FFA175009B3307 /* readme.md in Resources */,
+				FA3C88D020FBF97B00C437C7 /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		9428383BEDEDB29512D19C73 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-TaskTape AR Features-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		FE867902862FB92FDB63B49E /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${SRCROOT}/Pods/Target Support Files/Pods-TaskTape AR Features/Pods-TaskTape AR Features-frameworks.sh",
+				"${BUILT_PRODUCTS_DIR}/ARCL/ARCL.framework",
+				"${BUILT_PRODUCTS_DIR}/Alamofire/Alamofire.framework",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/ARCL.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/Alamofire.framework",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-TaskTape AR Features/Pods-TaskTape AR Features-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		FA3C88C120FBF97B00C437C7 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				FAC312AD2129034B007E938A /* ScnKitTester.swift in Sources */,
+				FA3C88EA20FD0C4200C437C7 /* JobFinderViewController+ARCL.swift in Sources */,
+				FA3C88E020FC123700C437C7 /* StatusViewController.swift in Sources */,
+				FAC312B42129ECFC007E938A /* AreaHeadingViewController.swift in Sources */,
+				FAC312B02129C0EA007E938A /* UIImage+Extension.swift in Sources */,
+				FA3C88E620FD05D300C437C7 /* JobFinderViewController+Actions.swift in Sources */,
+				FA3C88CD20FBF97B00C437C7 /* JobFinderViewController.swift in Sources */,
+				FAC312B32129ECFC007E938A /* AreaHeadingViewController+ARKit.swift in Sources */,
+				FAC312B62129F59F007E938A /* UIBezierPath+Arrow.swift in Sources */,
+				FA3C88DD20FC0F9F00C437C7 /* JobData.swift in Sources */,
+				FAE078F720FD3041007C525A /* HomeViewController.swift in Sources */,
+				FA3C88C920FBF97B00C437C7 /* AppDelegate.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		FA3C88CE20FBF97B00C437C7 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				FA3C88CF20FBF97B00C437C7 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		FA3C88D320FBF97D00C437C7 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				FA3C88D420FBF97D00C437C7 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		FA3C88D720FBF97D00C437C7 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.4;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		FA3C88D820FBF97D00C437C7 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.4;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		FA3C88DA20FBF97D00C437C7 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = E93F5BF6E9705F84E19F3595 /* Pods-TaskTape AR Features.debug.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = U53QJRRMV2;
+				INFOPLIST_FILE = TasktapeARFeatures/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "com.solipsar.tasktape.walkthrough-ar.TaskTape-AR-Features";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		FA3C88DB20FBF97D00C437C7 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 4ECE4ACF8B87679A23E92699 /* Pods-TaskTape AR Features.release.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = U53QJRRMV2;
+				INFOPLIST_FILE = TasktapeARFeatures/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "com.solipsar.tasktape.walkthrough-ar.TaskTape-AR-Features";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		FA3C88C020FBF97B00C437C7 /* Build configuration list for PBXProject "TasktapeARFeatures" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				FA3C88D720FBF97D00C437C7 /* Debug */,
+				FA3C88D820FBF97D00C437C7 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		FA3C88D920FBF97D00C437C7 /* Build configuration list for PBXNativeTarget "TaskTape AR Features" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				FA3C88DA20FBF97D00C437C7 /* Debug */,
+				FA3C88DB20FBF97D00C437C7 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = FA3C88BD20FBF97B00C437C7 /* Project object */;
+}
